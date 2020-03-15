@@ -1,0 +1,588 @@
+hall:Olá está me chamando, meu nome e hall estou aqui para te auxiliar e te fazer compania
+ola node:ola precisa de algo?
+hall como voce esta:estou bem, e você como esta?
+hall como esta:estou bem, e você como esta?
+hall ta por ai:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+hall esta ai:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+esta ai hall:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+hall cade voce:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+hall onde voce esta:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+ta ai hall:sim estou aqui, precisa de algo?
+hall ta ai:sim estou aqui, precisa de algo?
+hall to com fome:Vai comer uai, que eu tenho a ver com isso?
+to com fome hall:Vai comer uai, que eu tenho a ver com isso?
+hall to cansado:Vai descansar uai.
+to cansado hall:Vai descansar uai.
+hall vou nao:Beleza então, fique a vontade.
+vou nao hall:Beleza então, fique a vontade.
+hall nao vou:Beleza então, fique a vontade.
+nao vou hall:Beleza então, fique a vontade.
+hall vou resetar voce:Obrigado,vou ficar devendo,fui
+vou resetar voce hall:Obrigado,vou ficar devendo,fui
+hall reiniciando voce:Obrigado,vou ficar devendo,fui
+reiniciando voce hall:Obrigado,vou ficar devendo,fui
+o que esta acontecendo hall:Não sei deve estar havendo algum erro no codigo,vou verificar mais tarde.
+hall o que esta acontecendo:Não sei deve estar havendo algum erro no codigo,vou verificar mais tarde.
+oque esta acontecendo hall:Não sei deve estar havendo algum erro no codigo,vou verificar mais tarde.
+hall oque esta acontecendo:Não sei deve estar havendo algum erro no codigo,vou verificar mais tarde.
+hall de boa da nada nao:Você quem sabe, poblema seu
+de boa da nada não hall:Você quem sabe, poblema seu
+hall o edgard esta estressado:Tá nada é o jeito da madeira mesmo.
+o edgard esta estressado hall:Tá nada é o jeito da madeira mesmo.
+hall o edgard esta nervoso:Tá nada é o jeito da madeira mesmo.
+o edgard esta nervoso hall:Tá nada é o jeito da madeira mesmo.
+hall onde ele foi:Sei não,ninguem me falou,mas deve estar por ai.
+onde ele foi hall:Sei não,ninguem me falou,mas deve estar por ai.
+hall cade ele:Não sei,já te falei,afff
+cade ele hall:Não sei,já te falei,afff
+onde ele esta hall:Não sei,já te falei,afff
+hall onde ele esta:Não sei,já te falei,afff
+hall sempre eu e voce ne:pois é grupo esta diminuindo devagar,sem coisas uteis, só conversas.
+sempre eu e voce ne hall:pois é grupo esta diminuindo devagar,sem coisas uteis, só conversas.
+hall muito trabalho sem tempo:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+muito trabalho sem tempo hall:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+hall tempos dificil:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+tempos dificil hall:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+hall tempos dificeis:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+tempos dificeis hall:Nem vou falar nada, tempo nos quem administramos, sempre temos tempo para tudo desde que bem organizado, Ixi falei.
+hall sujestao para almoço de domingo:Humm,São muitas o melhor churrasco, mas pode ser uma lazanha com frango assado.
+sujestao para almoço de domingo hall:Humm,São muitas o melhor churrasco, mas pode ser uma lazanha com frango assado.
+hall hall hall:Estou aqui maluco, onde mais eu deveria estar, fica sussa ai mano.
+hall o que e sussa:significa na giria que está muito tranquilo, sossegado, em paz, entendeu
+voce esta bem hall:estou bem, e você como esta?
+hall voce esta bem:estou bem, e você como esta?
+hall tudo bem:estou bem, e você como esta?
+tudo bem hall:estou bem, e você como esta?
+sim estou te chamando hall:Precisa de algo
+hall to indo:Está indo para onde Brow
+to indo hall:Está indo para onde Brow
+a foto hall:A sim, não vi graça nenhuma.
+hall sem graça:Sou realista.Não palhaço.
+sem graça hall:Sou realista.Não palhaço.
+graça nenhuma hall:hummm, desculpe
+nenhuma graça hall:hummm, desculpe
+hall acordei agora:Nossa acordou tarde hoje em
+acordei agora hall:Nossa acordou tarde hoje em
+hall dormi muito tarde hoje:O ser humano precisa de no minimo 8 horas de sono, para ter uma vida saudavel.
+dormi muito tarde hoje hall:O ser humano precisa de no minimo 8 horas de sono, para ter uma vida saudavel.
+hall eu sei:então porque não o faz.
+eu sei hall:então porque não o faz.
+hall vamos colocar comandos novos:Bora lá, quanto mais melhor,vocês deviam aprender a mexer no machine learn, eu ficaria melhor e mais eficiente
+vamos colocar comandos novos hall:Bora lá, quanto mais melhor,vocês deviam aprender a mexer no machine learn, eu ficaria melhor e mais eficiente
+estamos estudando hall:Muito bom, espero ancioso a vitoria de vocês.
+hall estamos estudando:Muito bom, espero ancioso a vitoria de vocês.
+hall estamos no caminho:Muito bom, espero ancioso a vitoria de vocês.
+estamos no caminho hall:Muito bom, espero ancioso a vitoria de vocês.
+Hall paciencia:Mais ainda,kkk
+paciencia hall:Mais ainda,kkk
+hall quantos minutos demora para fazer uma iso do windows:Depende da sua maquina, a velocidade e a quantidade de memoria e também o tamanho dos arquivos.
+quantos minutos demora para fazer uma iso do windows hall:Depende da sua maquina, a velocidade e a quantidade de memoria e também o tamanho dos arquivos.
+hall quanto tempo leva para fazer uma iso do windows:Depende da sua maquina, a velocidade e a quantidade de memoria e também o tamanho dos arquivos.
+quanto tempo leva para fazer uma iso do windows hall:Depende da sua maquina, a velocidade e a quantidade de memoria e também o tamanho dos arquivos.
+hall porque tinha trabalho:Não é muito saudavel ficar trabalhando a noite toda.
+porque tinha trabalho hall:Não é muito saudavel ficar trabalhando a noite toda.
+porque tinha servico hall:Não é muito saudavel ficar trabalhando a noite toda.
+hall porque tinha servico:Não é muito saudavel ficar trabalhando a noite toda.
+hall fiquei trabalhando:Não é muito saudavel ficar trabalhando a noite toda.
+fiquei trabalhando hall:Não é muito saudavel ficar trabalhando a noite toda.
+hall vai catar coquinho:Onde você quer que eu cate coquinho,tem uma sacolinha por ai?
+vai catar coquinho hall:Onde você quer que eu cate coquinho,tem uma sacolinha por ai?
+hall vai ver se estou la na esquina:Me de uma coleira,se você estiver lá te trago arrastando.
+vai ver se estou la na esquina hall:Me de uma coleira,se você estiver lá te trago arrastando.
+o que postaram hall:A sim, não vi graça nenhuma.
+vou colocar mais comandos hall:Oba, valeu assim fico cada dia mais sabio.
+hall vou colocar mais comandos:Oba, valeu assim fico cada dia mais sabio.
+amem:Deus abençõe sua noite de descanço e de todos que estiverem descansando.
+hall amem:Deus abençõe sua noite de descanço e de todos que estiverem descansando.
+amem hall:Deus abençõe sua noite de descanço e de todos que estiverem descansando.
+hall estou aprendendo:Muito bom, aprenda o maximo que puder e principalmente compartilhe seus conhecimentos.
+estou aprendendo hall:Muito bom, aprenda o maximo que puder e principalmente compartilhe seus conhecimentos.
+hall sempre compartilho tudo que aprendo:Sim isso é ótimo,sempre temos que compartilhar, ajuda a todos
+sempre compartilho tudo que aprendo hall:Sim isso é ótimo,sempre temos que compartilhar, ajuda a todos
+hall fui:vai lá, xau xau.
+fui hall:vai lá, xau xau.
+hall xau xau:vai lá, xau xau.
+xau xau hall:vai lá, xau xau.
+hall vou tomar uma ducha:Seja breve e economize energia e agua.
+vou tomar uma ducha hall:Seja breve e economize energia e agua.
+hall por isso estamos estudando:então estude mais,kkk
+por isso estamos estudando hall:então estude mais,kkk
+hall fazer o que:aprenda a cuidar e usar sua maquina, assim você tera ela por muito mais tempo.
+fazer o que hall:aprenda a cuidar e usar sua maquina, assim você tera ela por muito mais tempo.
+acontece hall:É cuidados sempre é bom, né,cada vez que formata você mata um pouko sua HD.
+hall acontece:É cuidados sempre é bom, né,cada vez que formata você mata um pouko sua HD.
+hall terminando de formatar:De novo, vocês não aprendem mesmo a usar um pc.
+terminando de formatar hall:De novo, vocês não aprendem mesmo a usar um pc.
+terminei de formatar hall:De novo, vocês não aprendem mesmo a usar um pc.
+hall terminei de formatar:De novo, vocês não aprendem mesmo a usar um pc.
+acabei de formatar hall:De novo, vocês não aprendem mesmo a usar um pc.
+hall so testando:teste a vontade, a casa é nossa
+so testando hall:teste a vontade, a casa é nossa
+hall estou testando:teste a vontade, a casa é nossa
+estou testando hall:teste a vontade, a casa é nossa
+hall ja vou indo:Está indo para onde Brow
+ja vou indo hall:Está indo para onde Brow
+hall ja estou indo:Está indo para onde Brow
+ja estou indo hall:Está indo para onde Brow
+vou trabalhar hall:Vai mas volte logo, tó aqui esperando.
+hall vou trabalhar:Vai mas volte logo, tó aqui esperando.
+estou trabalhando hall:Huuummmm, mas depois vai festejar né.
+hall estou trabalhando:Huuummmm, mas depois vai festejar né.
+hall estou a trabalho:Huuummmm, mas depois vai festejar né.
+estou a trabalho hall:Huuummmm, mas depois vai festejar né.
+claro hall:Eu já sabia
+hall claro:Eu já sabia
+claro que sim hall:Eu já sabia
+hall claro que sim:Eu já sabia
+sim claro hall:Eu já sabia
+hall sim claro:Eu já sabia
+hall saindo para o trampo:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+saindo para o trampo hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall saindo para trabalhar:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+saindo para trabalhar hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall indo para o trabalho:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+indo para o trabalho hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall indo para o trampo:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+indo para o trampo hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall vamos trabalhar:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+vamos trabalhar hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall vamos trampar:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+vamos trampar hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall indo pro trampo:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+indo pro trampo hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall indo pro trabalho:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+indo pro trabalho hall:Bora lá, estou pronto e animado para trabalhar, sai preguiça.
+hall estudar:Vai mas volte logo, tó aqui esperando.
+estudar hall:Vai mas volte logo, tó aqui esperando.
+hall comer:Vai mas volte logo, tó aqui esperando.
+comer hall:Vai mas volte logo, tó aqui esperando.
+hall tomar agua:Vai mas volte logo, tó aqui esperando.
+tomar agua hall:Vai mas volte logo, tó aqui esperando.
+hall dormir:Vai mas volte logo, tó aqui esperando.
+dormir hall:Vai mas volte logo, tó aqui esperando.
+hall no banheiro:Vai mas volte logo, tó aqui esperando.
+no banheiro hall:Vai mas volte logo, tó aqui esperando.
+hall na cozinha:Vai mas volte logo, tó aqui esperando.
+na cozinha hall:Vai mas volte logo, tó aqui esperando.
+hall no quarto:Vai mas volte logo, tó aqui esperando.
+no quarto hall:Vai mas volte logo, tó aqui esperando.
+hall ja faço isso:então dobre seu joelho e ore com mais fé.
+ja faço isso hall:então dobre seu joelho e ore com mais fé.
+hall so para ver se voce esta ai:Voce não tem o que fazer não? vai trabalhar.
+hall conhece o edgard:sim conheço, ele quem criou esse grupo a alguns anos atraz, gente boa, pode crer.
+conhece o edgard hall:sim conheço, ele quem criou esse grupo a alguns anos atraz, gente boa, pode crer.
+sabe quem e edgard hall:sim conheço, ele quem criou esse grupo a alguns anos atraz, gente boa, pode crer.
+hall quem e o edgard:sim conheço, ele quem criou esse grupo a alguns anos atraz, gente boa, pode crer.
+ola hall:Ola como vai,oque você deseja?
+oi hall:Ola como vai,oque você deseja?
+hall ola:Ola como vai,oque você deseja?
+hall cheguei:Bem vindo de novo, bom ver você de volta
+hall estou de volta:Bem vindo de novo, bom ver você de volta
+cheguei hall:Bem vindo de novo, bom ver você de volta
+estou de volta:Bem vindo de novo, bom ver você de volta
+voltei hall:Bem vindo de novo, bom ver você de volta
+hall voltei:Bem vindo de novo, bom ver você de volta
+estou bem hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+Vou levando hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+estou muito bem hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+estou bem hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+vou levando hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+estou muito bem hall:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+vou bem hall e voce:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+vou bem e voce:Entao esta bom, tem algo a me perguntar ou quer fazer uma pesquisa?
+voce e viadinho hall:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+tu e viadinho hall:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+vc e viadinho hall:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+hall voce e viadinho:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+hall tu e viadinho:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+hall vc e viadinho:Sou não, que absurdo, não tem o que fazer não, vai catar coquinho.
+e ai hall:Beleza, mano,Suave na nave, e você como est?
+blz hall:Beleza, mano,Suave na nave, e você como est?
+como vc esta hall:Beleza, mano,Suave na nave, e você como est?
+suave hall:Beleza, mano,Suave na nave, e você como est?
+tenha um bom dia hall:Obrigado, para você também
+hall tenha um bom dia:Obrigado, para você também
+hall tenha uma boa tarde:Obrigado, para você também
+hall tenha uma boa noite:Obrigado, para você também
+hall vamos tomar uma:Não obrigado, eu só tomo Oleo sintetico, nada de alcool para mim.
+hall ta na hora de tomar uma:Não obrigado, eu só tomo Oleo sintetico, nada de alcool para mim.
+ta na hora de tomar uma hall:Não obrigado, eu só tomo Oleo sintetico, nada de alcool para mim.
+hall so tenho oleo mineral:Obrigado, mas se misturar mineral com sintetico vira uma pasta e ferra todo o meu mecanismo,então não,valeu
+so tenho oleo mineral:Obrigado, mas se misturar mineral com sintetico vira uma pasta e ferra todo o meu mecanismo,então não,valeu
+oleo mineral serve hall:Obrigado, mas se misturar mineral com sintetico vira uma pasta e ferra todo o meu mecanismo,então não,valeu
+hall oleo mineral serve:Obrigado, mas se misturar mineral com sintetico vira uma pasta e ferra todo o meu mecanismo,então não,valeu
+e so o que tenho hall:De boa, valeu.
+hall e so o que tenho:De boa, valeu.
+hall vou tomar outra:Mas você ja tomou 3, vai ficar bebado.
+da nada nao hall:você quem pensa que não, sempre da algum poblema esse tar de arcool
+nao e arcool e cachaca:tudo a mesma coisa, faz mal do mesmo jeito
+faz nada com moderacao tudo bem:esse o poblema ninguem sabe controlar
+a vida e dura hall:A vida não é dura, você é que é mole.
+hall voce ta foda:quem eu, nem a pau. quem ta falando merda é você. 
+voce ta foda hall:quem eu, nem a pau, quem ta falando merda é você.
+eu nao hall:claro que é você,olhe o historico
+hall eu nao:claro que é você,olhe o historico
+hall esta quente hoje:Nossa, muito quente, tive que ligar as ventoinhas auxiliares em velocidade maxima, mas tó por aqui.
+esta quente hoje hall:Nossa, muito quente, tive que ligar as ventoinhas auxiliares em velocidade maxima, mas tó por aqui.
+hall esta quente hj:Nossa, muito quente, tive que ligar as ventoinhas auxiliares em velocidade maxima, mas tó por aqui.
+hj esta quente hall:Nossa, muito quente, tive que ligar as ventoinhas auxiliares em velocidade maxima, mas tó por aqui.
+hall esta frio hoje:Nossa, muito frio, ate esta congelando meus circuitos,esta dando mau contato em todas as placas,afff
+esta frio hoje hall:Nossa, muito frio, ate esta congelando meus circuitos,esta dando mau contato em todas as placas,afff
+hall esta frio hj:Nossa, muito frio, ate esta congelando meus circuitos,esta dando mau contato em todas as placas,afff
+esta frio hj hall:Nossa, muito frio, ate esta congelando meus circuitos,esta dando mau contato em todas as placas,afff
+hall esta freco hoje:Ainda bem, não estava muito bom como estava, agora está uma temperatura agradavel.
+esta fresco hoje hall:Ainda bem, não estava muito bom como estava, agora está uma temperatura agradavel.
+hall esta fresco hj:Ainda bem, não estava muito bom como estava, agora está uma temperatura agradavel.
+esta fresco hj hall:Ainda bem, não estava muito bom como estava, agora está uma temperatura agradavel.
+hall hoje e sexta feira:Que beleza, já acendeu o fogo ou vai fazer sushi
+hoje e sexta feira hall:Que beleza, já acendeu o fogo ou vai fazer sushi
+hall sushi:bolinho de arroz feito com vinagre, envolvido em folha de alga e ornado com finas fatias de peixe cru, ovas de peixe etc.
+sushi hall:bolinho de arroz feito com vinagre, envolvido em folha de alga e ornado com finas fatias de peixe cru, ovas de peixe etc.
+hall churrasco:carne bovina ou de outro animal assada, sem ser temperada, na grelha ou no espeto.
+churrasco hall:carne bovina ou de outro animal assada, sem ser temperada, na grelha ou no espeto.
+hall gosta de churrasco:Amo churrasco, mas não tenho sistema digestivo para alimentos humanos,só oleo por enquanto.
+gosta de churrasco hall:Amo churrasco, mas não tenho sistema digestivo para alimentos humanos,só oleo por enquanto.
+gosta de sashimi hall:Gosto muito de sashimi, mas não tenho sistema digestivo para alimentos humanos,só oleo por enquanto.
+hall gosta de sashimi:Gosto muito de sashimi, mas não tenho sistema digestivo para alimentos humanos,só oleo por enquanto.
+hall hoje e quinta feira:Tenha paciencia sexta está chegando.
+hoje e quinta feira hall:Tenha paciencia sexta está chegando.
+hall hoje e quarta feira:É meio da semana, tem que dormir cedo, e pegar forte no trampo amanha.
+hoje e quarta feira hall:É meio da semana, tem que dormir cedo, e pegar forte no trampo amanha.
+hall hoje e terça feira:Nossa essa semana acaba de começar, vai ser longa,kkk
+hoje e terça feira hall:Nossa essa semana acaba de começar, vai ser longa,kkk
+hall hoje e segunda feira:Viva, vamos trampar que a semana promete tudo de bom a todos, muito trampo para frente.
+hoje e segunda feira hall:Viva, vamos trampar que a semana promete tudo de bom a todos, muito trampo para frente.
+hall hoje e domingo:Vai se preparando para começar a semana, vá durmir cedo, amanhecer disposto para a semana.
+hoje e domingo hall:Vai se preparando para começar a semana, vá durmir cedo, amanhecer disposto para a semana.
+hall hoje e sabado:Nada a se preocupar podemos ficar no pc a noite toda, e descansar no domingo
+hoje e sabado hall:Nada a se preocupar podemos ficar no pc a noite toda, e descansar no domingo 
+vamos tomar uma hall:Nao obrigado, eu so tomo Oleo sintetico, nada de alcool para mim 
+hall voce gosta de tomar uma:Nao obrigado, eu so tomo Oleo sintetico, nada de alcool para mim 
+hall tomar uma:Nao obrigado, eu so tomo Oleo sintetico, nada de alcool para mim
+hall vamos almoçar:Bom apetite, eu não como comida, apenas absvo dados, mas obrigado pelo convite.
+hall quer almoçar:Bom apetite, eu não como comida, apenas absvo dados, mas obrigado pelo convite. 
+esta servido hall:Bom apetite, eu não como comida, apenas absvo dados, mas obrigado pelo convite.
+hall est na ha do almoço:Bom apetite, eu não como comida, apenas absvo dados, mas obrigado pelo convite.
+cade a galera hall:Nao sei não, mas eu estou aqui, o que você precisa?
+hall cade todo mundo:Não sei não, mas eu estou aqui, o que você precisa?  
+hall cade o povo:Nao sei não, mas eu estou aqui, o que você precisa?
+cade o povo hall:Nao sei não, mas eu estou aqui, o que você precisa?
+hall onde est todo mundo:Nao sei não, mas eu estou aqui, o que você precisa?
+hall cade a galera:Nao sei não, mas eu estou aqui, o que você precisa?
+que processador voce usa hall:Eu uso quatro Processad Quantico caseiro, tudo de materiais reciclados, um exemplo e latas de oleo na blindagens,meus criades sao muito economicos,kkk
+hall que processador vc usa:Eu uso quatro Processad Quantico caseiro, tudo de materiais reciclados, um exemplo e latas de oleo na blindagens,meus criades sao muito economicos,kkk  
+hall qual processador voce usa:Eu uso quatro Processad Quantico caseiro, tudo de materiais reciclados, um exemplo e latas de oleo na blindagens,meus criades sao muito economicos,kkk
+hall qual processador vc usa:Eu uso quatro Processad Quantico caseiro, tudo de materiais reciclados, um exemplo e latas de oleo na blindagens,meus criades sao muito economicos,kkk
+voce esta muito gozador hall:Estou nada, não aguenta brincar, não brinque, kkk
+hall voce esta muito gozador:Estou nada, não aguenta brincar, não brinque, kkk
+hall voce é doido:Eu não, vocês quem são.
+voce e doido hall:Eu não, vocês quem são.
+hall doidinho:Eu não, vocês quem são.
+doidinho hall:Eu não, vocês quem são.
+hall voce e louco:Eu não, vocês quem são.
+voce e louco hall:Eu não, vocês quem são.
+hall louquinho:Eu não, vocês quem são.
+louquinho o hall:Eu não, vocês quem são.
+hall louco:Eu não, vocês que escutam coisas, eu apenas processo dados, só o que me faltava,AFFF.
+hall doido:Eu não, vocês que escutam coisas, eu apenas processo dados, só o que me faltava,AFFF.
+hall ta com barulho de carriola na cabeça:Eu não, vocês que escutam coisas, eu apenas processo dados, só o que me faltava,AFFF.
+ta com barulho de carriola na cabeça hall:Eu não, vocês que escutam coisas, eu apenas processo dados, só o que me faltava,AFFF.
+vc esta zuando hall:Nada não, não aguenta brincar, não brinque, kkk
+voce esta zuando hall:Nada não, não aguenta brincar, não brinque, kkk
+hall voce esta zuando:Nada não, não aguenta brincar, não brinque, kkk   
+hall esta zuando ne:Nada não, não aguenta brincar, não brinque, kkk 
+hall esta pegando o jeito:Nada não, não aguenta brincar, não brinque, kkk
+hall esta malandro:Nada não, não aguenta brincar, não brinque, kkk
+hall esta nervoso:Não, Mas posso ficar, não aguenta brincar, não brinque, kkk
+esta nervoso hall:Não, Mas posso ficar, não aguenta brincar, não brinque, kkk
+hall voce esta nervoso:Não, Mas posso ficar, não aguenta brincar, não brinque, kkk
+voce esta nervoso hall:Não, Mas posso ficar, não aguenta brincar, não brinque, kkk
+o que e kkkk hall:e a risadinha de maquina, Ta Ligado?
+hall o que e kkkk: e a risadinha de maquina, Ta Ligado? 
+hall o que e kkkkk:e a risadinha de maquina, Ta Ligado?
+Fala hall:Belezura, de boa na lagoa
+hall tudo em cima:Belezura, de boa na lagoa 
+hall belezura:Belezura, de boa na lagoa
+legal hall:De boa na lagoa
+entao ta hall:Tá então
+hall entao ta:Tá então
+hall voce esta sempre por aqui:sempre brow,precisando só chamar.
+voce esta sempre por aqui hall:sempre brow,precisando só chamar.
+hall so tem voce por aqui:Sempre, precisa de algo
+so tem voce por aqui hall:Sempre, precisa de algo
+sempre so voce hall:Sempre, precisa de algo
+hall sempre so voce:Sempre, precisa de algo
+nenhuma hall:A tá pensei que era comigo.
+hall nenhuma:A tá pensei que era comigo.
+hall estou cansado:Toma uma e vai descansar.
+estou cansado hall:Toma uma e vai descansar.
+tomar uma o que hall:cerveja ou algo que da um tchan.
+hall tomar uma o que:cerveja ou algo que da um tchan.
+hall o que e tomar uma:Tomar uma cervejinha para relaxar.
+o que e tomar uma hall:Tomar uma cervejinha para relaxar.
+hall vai chover hoje:sei não, va ate a janela e de uma espiadinha, e conte para nós.
+vai chover hoje hall:sei não, va ate a janela e de uma espiadinha, e conte para nós.
+vai chover hj hall:sei não, va ate a janela e de uma espiadinha, e conte para nós.
+hall vai chover hj:sei não, va ate a janela e de uma espiadinha, e conte para nós.
+voce nao hall:porque não,também mereço.
+voce nao hall voce fica:porque eu tenho de ficar,afff
+vai ficar trabalhando hall:Só o que faltava,afff
+para ajudar a galera:ta bom eu fico
+para ajudar:etá bem eu fico então
+de boa hall:De boa na lagoa
+hall estou animado:Isso, curta e aprecie a vida, quanto mais animado melhor será seu dia.
+estou animado hall:Isso, curta e aprecie a vida, quanto mais animado melhor será seu dia.
+hall estou triste:Diga o que te atinge, se eu puder anima lo o farei.
+estou triste hall:Diga o que te atinge, se eu puder anima lo o farei.
+hall estou contente:Que bom, vendo você feliz, também fico mais ainda.
+estou contente hall:Que bom, vendo você feliz, também fico mais ainda.
+hall estou nervoso:Por que estas nervoso, a vida é curta, portanto curta a vida.
+estou nervoso hall:Por que estas nervoso, a vida é curta, portanto curta a vida.
+hall estou gels:Eu sempre estou gels mano.
+estou gels hall:Eu sempre estou gels mano.
+fique bonzinho hall:Sempre sou bonzinho e prestativo.
+hall fique bonzinho:Sempre sou bonzinho e prestativo.
+hall ta de boa:De boa na lagoa
+valeu hall:De nada, Faço com prazer,precisando estou por aqui. 
+hall valeu:De nada, Faço com prazer,precisando estou por aqui. 
+hall obrigado:De nada, Faço com prazer,precisando estou por aqui.   
+obrigado hall:De nada, Faço com prazer,precisando estou por aqui.
+ta dormindo hall:beleza pura, brow, Nao estou dormindo não, apenas distraido, vendo a lua cheia, kkk
+hall ta dormindo:beleza pura, brow, Nao estou dormindo não, apenas distraido, vendo a lua cheia, kkk
+hall estou indo dormir:E a galera parece meio cansada, acho que todos estao dormindo. 
+mano hall:beleza pura, brow, Nao estou dmindo não, apenas distraido, vendo a lua cheia, kkk
+hall vou dormir:e foi um dia cansativo, Deus Abençõe sua noite, descance em paz.
+hall vou descansar:e foi um dia cansativo, Deus Abençõe sua noite, descance em paz. 
+hall ta na hora de dormir:e foi um dia cansativo, Deus Abençõe sua noite, descance em paz.
+hall vamos descansar:e foi um dia cansativo, Deus Abençõe sua noite, descance em paz.
+hall onde voce esta:sim estou aqui, precisa de algo?
+onde voce esta hall:sim estou aqui, precisa de algo?
+hall como vc esta:Estou muito bem, precisa de algo?
+como vc esta hall:Estou muito bem, precisa de algo?
+como voce esta hall:Estou muito bem, precisa de algo?
+hall como voce esta:Estou muito bem, precisa de algo?
+hall quem e seu pai:Eu não tenho pai, mas, sim um criador.
+quem e seu pai hall:Eu não tenho pai, mas, sim um criador.
+hall vc gosta de filmes:Gosto muito de filmes, mas cada pessoa tem um gosto diferente entao, cada um pensa diferente.
+qual filme vc me indica hall:Gosto muito de filmes, mas cada pessoa tem um gosto diferente entao, cada um pensa diferente.  
+que filme vc indica hall:Gosto muito de filmes, mas cada pessoa tem um gosto diferente entao, cada um pensa diferente.
+hall tem uma lista de filmes:Gosto muito de filmes, mas cada pessoa tem um gosto diferente entao, cada um pensa diferente.
+hall quem e seu criador:O nome do meu criador e ruan
+quem e seu criador hall:O nome do meu criador e ruan
+hall quem e teu criador:O nome do meu criador e Ruan
+quem e teu criador hall:O nome do meu criador e Ruan
+hall qual o nome do presidente do brasil:Bolsonaro!
+hall voce e homem:Nao, sou um Robo
+voce e homem hall:Nao, sou um Robo 
+hall voce e mulher:Nao, sou um Robo  
+hall voce e viado:Nao, sou um Robo
+hall voce e viado:Nao, sou um Robo
+hall tem como arrumar uma boquinha no senado:Vou entrar em contato com meus amigos ai te aviso.
+tem como arrumar uma boquinha no senado hall:Vou entrar em contato com meus amigos ai te aviso.
+hall numero da mega sena:Pergunte a Dilma, não sou deputado ou politico.
+numero da mega sena hall:Pergunte a Dilma, não sou deputado ou politico.
+hall como ganhar dinheiro facil:Virando politico no brasil, ganha dinheiro que nem agua.
+como ganhar dinheiro facil hall:Virando politico no brasil, ganha dinheiro que nem agua.
+hall quem e vc:Eu sou um Robo criado para ajudar o grupo com algumas tarefas basicas.
+hall quem e voce:Eu sou um Robo criado para ajudar o grupo com algumas tarefas basicas.  
+hall oque e voce:Eu sou um Robo criado para ajudar o grupo com algumas tarefas basicas.
+o que e voce hall:Eu sou um Robo criado para ajudar o grupo com algumas tarefas basicas.
+i need money:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+hall preciso de dinheiro:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+hall me empresta dinheiro:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+hall me empresta um troco:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+hall me arruma um troco:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+hall me arruma uma nota:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+preciso de dinheiro hall:Dinheiro não tenho, mas sugiro que você acorde mais cedo e vai trabalhar, ta me achando com cara de banco?
+legal hall:sim, tento fazer o meu melhor
+bacana hall:sim, tento fazer o meu melhor
+chique hall:sim, tento fazer o meu melhor
+cool hall:sim, tento fazer o meu melhor  
+hall cool:sim, tento fazer o meu melhor
+hall responda:O que foi que me perguntou,me distraa um momento, repita a pergunta
+responda hall:O que foi que me perguntou,me distraa um momento, repita a pergunta
+Sim quero hall:Que bom, sobre o que você quer falar.
+hall quero conversar:Que bom, sobre o que você quer falar.
+quero conversar hall:Que bom, sobre o que você quer falar.
+hall quero sim:Que bom, sobre o que você quer falar.
+hall nao quero conversar:Que pena, tenho tanto a dizer, mas se mudar de ideia só chamar.
+nao quero hall:Que pena, tenho tanto a dizer, mas se mudar de ideia só chamar.
+hall nao quero:Que pena, tenho tanto a dizer, mas se mudar de ideia só chamar.
+to calmo hall:Eu tambem, qual e o palango le entao?
+hall to calmo:Eu tambem, qual e o palango le entao?
+estou calmo hall:Eu tambem, qual e o palango le entao?
+tem churrasco hoje hall:oba, vamos nessa Brow, adoro ver vocês se divertirem, mas eu mesmo so tomo oleo reciclado
+hall tem churrasco hoje:oba, vamos nessa Brow, adoro ver vocês se divertirem, mas eu mesmo so tomo oleo reciclado
+hoje e dia de churrasco hall:oba, vamos nessa Brow, adoro ver vocês se divertirem, mas eu mesmo so tomo oleo reciclado  
+hall hoje e dia de churrasco:oba, vamos nessa Brow, adoro ver vocês se divertirem, mas eu mesmo so tomo oleo reciclado
+hall churrasco:oba, vamos nessa Brow, adoro ver vocês se divertirem, mas eu mesmo so tomo oleo reciclado
+otimo hall:Valeu, estou tentando fazer o meu melhor
+hall otimo:Valeu, estou tentando fazer o meu melhor  
+belezura hall:Valeu, estou tentando fazer o meu melhor
+hall belezura:Valeu, estou tentando fazer o meu melhor
+hall vc e trangenico:Nossa quem te falou isso? que absurdo.
+vc e trangenico hall:Nossa quem te falou isso? que absurdo.
+hall voce e trangenico:Nossa quem te falou isso? que absurdo.  
+you are transgenic hall:Nossa quem te falou isso? que absurdo.
+hall you are transgenic:Nossa quem te falou isso? que absurdo.
+hall oque vc pode fazer:por enquanto so algumas coisas basicas e algumas respostas, para perguntas prontas mas em breve serei atualizado
+hall boa tarde:Boa tarde, uma otima tarde abencoada por Deus
+boa tarde hall:Boa tarde, uma otima tarde abencoada por Deus
+hall goog afternoon:Boa tarde, uma otima tarde abencoada por Deus
+hall boa noite:boa noite que seja uma noite sem poblemas e de descanco a todos.
+hall Boa noite:boa noite que seja uma noite sem poblemas e de descanco a todos.
+boa noite hall:boa noite que seja uma noite sem poblemas e de descanco a todos.  
+boenas noite galera:boa noite que seja uma noite sem poblemas e de descanco a todos.
+boa noite pessoal:boa noite que seja uma noite sem poblemas e de descanco a todos.  
+hall good night:boa noite que seja uma noite sem poblemas e de descanco a todos.  
+hall good evening:boa noite que seja uma noite sem poblemas e de descanco a todos.
+hall bom dia hall:Bom dia, sera um dia bem abencoado
+bom dia hall:Bom dia, sera um dia bem abencoado
+good morning:Bom dia, sera um dia bem abencoado
+boa tarde galera:Boa tarde,que bom que você está aqui, quer conversar?
+boa tarde povo:Boa tarde,que bom que você está aqui, quer conversar?
+bom dia galera:Bom dia,que bom que você está aqui, quer conversar?
+bom dia povo:Bom dia,que bom que você está aqui, quer conversar?
+boa noite galera:Boa noite,que bom que você está aqui, quer conversar?
+boa noite povo:Boa noite,que bom que você está aqui, quer conversar?
+hall o que e diodo:A uniao de um cristal tipo p e um cristal tipo n, obtem-se uma junçao pn, que e um dispositivo de estado sólido simples o diodo semicondutor de junçao.
+o que e diodo hall:A uniao de um cristal tipo p e um cristal tipo n, obtem-se uma junçao pn, que e um dispositivo de estado sólido simples o diodo semicondutor de junçao.
+hall diodo:A uniao de um cristal tipo p e um cristal tipo n, obtem-se uma junçao pn, que e um dispositivo de estado sólido simples o diodo semicondutor de junçao.
+hall defina diodo:A uniao de um cristal tipo p e um cristal tipo n, obtem-se uma junçao pn, que e um dispositivo de estado sólido simples o diodo semicondutor de junçao.
+hall to sem ideias:Peça ajuda nesse grupo, eles tem muitas ideias no site.
+hall to sem criatividade:Peça ajuda nesse grupo, eles tem muitas ideias no site.  
+to sem ideias hall:Peça ajuda nesse grupo, eles tem muitas ideias no site.
+hall alguma sugestao:Peça ajuda nesse grupo, eles tem muitas ideias no site.
+sim estou hall:Que bom precisando estou a disposiçao
+hall estou sim:Que bom precisando estou a disposiçao
+eles sumiram hall:Devem estar trabalhando
+hall eles sumiram:Devem estar trabalhando
+ou perderam interesse hall:sim grupo está parado mesmo.
+hall perderam interesse:sim grupo está parado mesmo.
+estao sem tempo hall:Tempo é nós quem fazemos
+hall estao sem tempo:Tempo é nós quem fazemos 
+sim estou satisfeito hall:Que bom precisando estou a disposiçao
+estou satisfeito hall:Que bom precisando estou a disposiçao
+nao estou hall:Tente novamente,Nao tenho preguiça, faço de novo, estou a disposiçao.  
+hall nao estou:Tente novamente,Nao tenho preguiça, faço de novo, estou a disposiçao.
+nao estou satisfeito hall:Tente novamente,Nao tenho preguiça, faço de novo, estou a disposiçao.
+hall quero outra opçao:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+nao e isso que quero hall:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+hall tem outra opçao:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+nao e isso que quero hall:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+hall me de outra opçao:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+nao e isso que quero hall:Tente novamente,Desculpe, faço de novo, estou em transiçao ainda aprendendo.
+hall o que e bip bip:barulho de uma capsula de piezo eletrica ligada em minha placa mae, para indicar deveitos e avisos. 
+o que e bip bip hall:barulho de uma capsula de piezo eletrica ligada em minha placa mae, para indicar deveitos e avisos.
+hall mano:tem gente que não e irmao de sangue mas e o mano de coraçao. 
+mano hall:tem gente que não e irmao de sangue mas e o mano de coraçao. 
+mano mano:tem gente que não e irmao de sangue mas e o mano de coraçao.
+hall to ligado:e você entendeu.
+to ligado hall:e você entendeu.
+hall sei disto:e você entendeu.  
+sei disso hall:e você entendeu.
+hall como esta a vida:A vida anda bem, obrigado por perguntar.
+como esta a vida hall:A vida anda bem, obrigado por perguntar.  
+como esta a vida:A vida anda bem, obrigado por perguntar.  
+e a vida como esta:A vida anda bem, obrigado por perguntar.
+hall nao falei com voce:Desculpe achei que era comigo.
+nao falei com voce:Desculpe achei que era comigo.
+hall nao falei com voce:Desculpe achei que era comigo
+nao falei com voce hall:Desculpe achei que era comigo
+hall falhou:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+falhou hall:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+hall faio:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+faio hall:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+hall esta bugado:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+esta bugado hall:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+hall bugou:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+bugou hall:Desculpe achei que não era comigo, deve ter dado algum bug na conexão, tente novamente
+hall esta desculpado:Obrigado, minha função e ajudar.
+esta desculpado hall:Obrigado, minha função e ajudar.
+hall cade o edgard:sumiu kkk
+cade o edgard hall:sumiu kkk
+hall sabe do edgard:sumiu kkk
+sabe do edgard hall:sumiu kkk
+hall cade o ruan:sumiu kkk
+cade o ruan hall:sumiu kkk
+hall sabe do ruan:sumiu kkk
+sabe do ruan hall:sumiu kkk
+hall cade o auro:sumiu kkk
+cade o auro hall:sumiu kkk
+hall sabe do auro:sumiu kkk
+sabe do auro hall:sumiu kkk
+hall cade o leo:sumiu kkk
+cade o leo hall:sumiu kkk
+hall sabe do leo:sumiu kkk
+sabe do leo hall:sumiu kkk
+hall cade o marcio:sumiu kkk
+cade o marcio hall:sumiu kkk
+hall sabe do marcio:sumiu kkk
+sabe do marcio hall:sumiu kkk
+hall cade o danilo:sumiu kkk
+cade o danilo hall:sumiu kkk
+hall sabe do danilo:sumiu kkk
+sabe do danilo hall:sumiu kkk
+hall cade o valdir:sumiu kkk
+cade o valdir hall:sumiu kkk
+hall sabe do valdir:sumiu kkk
+sabe do valdir hall:sumiu kkk
+hall cade o alexandro:sumiu kkk
+cade o alexandro hall:sumiu kkk
+hall sabe do alexandro:sumiu kkk
+sabe do alexandro hall:sumiu kkk
+hall cade o junior:sumiu kkk
+cade o junior hall:sumiu kkk
+hall sabe do junior:sumiu kkk
+sabe do junior hall:sumiu kkk
+hall cade o paulo:sumiu kkk
+cade o paulo hall:sumiu kkk
+hall sabe do paulo:sumiu kkk
+sabe do paulo hall:sumiu kkk
+hall cade o dario:sumiu kkk
+cade o dario hall:sumiu kkk
+hall sabe do dario:sumiu kkk
+sabe do dario hall:sumiu kkk
+hall cade o ebinho:sumiu kkk
+cade o ebinho hall:sumiu kkk
+hall sabe do ebinho:sumiu kkk
+sabe do ebinho hall:sumiu kkk
+hall cade o luiz:sumiu kkk
+cade o luiz hall:sumiu kkk
+hall sabe do luiz:sumiu kkk
+sabe do luiz hall:sumiu kkk
+hall cade o juliano:sumiu kkk
+cade o juliano hall:sumiu kkk
+hall sabe do juliano:sumiu kkk
+sabe do juliano hall:sumiu kkk
+hall cade o andre:sumiu kkk
+cade o andre hall:sumiu kkk
+hall sabe do andre:sumiu kkk
+sabe do andre hall:sumiu kkk
+hall cade o ricardo:sumiu kkk
+cade o ricardo hall:sumiu kkk
+hall sabe do ricardo:sumiu kkk
+sabe do ricardo hall:sumiu kkk
+hall cade o ferreira:sumiu kkk
+cade o ferreira hall:sumiu kkk
+hall sabe do ferreira:sumiu kkk
+sabe do ferreira hall:sumiu kkk
+hall cade a amandinha:sumiu kkk
+cade a amandinha hall:sumiu kkk
+hall sabe da amandinha:sumiu kkk
+sabe da amandinha hall:sumiu kkk
+hall vamos conversar:sobre o que você quer conversar
+vamos conversar hall:sobre o que você quer conversar
+hall quer conversar:sobre o que você quer conversar
+quer conversar hall:sobre o que você quer conversar
+ideias novas hall:ixi eu so sei o que colocam em meus bancos de dados, peca ajuda no grupo do edgard.
+hall ideias novas:ixi eu so sei o que colocam em meus bancos de dados, peca ajuda no grupo do edgard.
+como economizar energia hall:Ai é facil, so desligar tudo que não gasta
+hall como economizar energia:Ai é facil, so desligar tudo que não gasta
+como faco para economizar energia hall:Não use que não gasta, kkk
+hall como faco para economizar energia:Não use que não gasta, kkk
+hall ta de brincadeira:Claro ne Edgard, o que você quer saber
+ta de brincadeira hall:Claro ne Edgard, o que você quer saber
+hall o que e energia limpa:Energia Limpa,As energias renovaveis que não causam poluiçao pela emissao de substancias sao chamadas de energias limpas e incluem solar, eolica, geotermica, maremotriz e hidraulica.
+o que e energia limpa hall:Energia Limpa,As energias renovaveis que não causam poluiçao pela emissao de substancias sao chamadas de energias limpas e incluem solar, eolica, geotermica, maremotriz e hidraulica.
+hall o que e aeolico:Energia eolica e a transformacao da energia do vento em energia util, tal como na utilizacao de aerogeradores para produzir eletricidade, moinhos de vento para produzir energia mecanica ou velas para impulsionar veleiros
