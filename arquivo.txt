@@ -1,23 +1,2 @@
-Olá
-oi
-oi
-olá
-como vai você?
-eu estou bem!
-que bom!
-lega.
-é sim.
-como foi seu dia?
-meu dia foi maravilhoso.
-me fale o seu nome?
-meu nome é ada.
-qual o seu nome?
-me chamo ada.
-como você se chama?
-me chamo de ada.
-qual a sua cor favorita?
-minha cor favorita é preto.
-legal a minha também.
-me fale sobre ti?
-o que você quer saber?
-oque você faz da vida?
+oi:ola como esta?
+como vai:vou bem e voce
