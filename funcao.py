@@ -87,3 +87,4 @@ with open('central.txt', 'r', encoding='utf-8') as file:
         #         print("funcao especificada no CSV nao existe no codigo python!!!")
         else:
             print("encontrado entrada no CSV nao permitida!")
+# manda no telegra isoo: 5638
