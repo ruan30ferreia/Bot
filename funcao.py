@@ -1,5 +1,8 @@
 import random
 
+mi = ['ola', 'teste', 'como vai']
+chute = random.choices(mi)
+embaralhar = random.shuffle(mi)
 # with open('central.txt', 'r', encoding='utf-8') as file:
 #     for frase_pv in file:
 #         camp1, camp2 = frase_pv.split(':')
@@ -66,24 +69,24 @@ with open('central.txt', 'r', encoding='utf-8') as file:
         if len(estrutura) == 2:
             resposta_ao_telegram = estrutura[1]
             print(resposta_ao_telegram)
-        elif len(estrutura) >= 3:
-            if estrutura[0] in locals():
-                resposta_ao_telegram = locals()[estrutura[0]](estrutura)
-                print(resposta_ao_telegram)
-            else:
-                print("funcao especificada no CSV nao existe no codigo python!!!")
-        # elif len(estrutura) > 3:
+        # elif len(estrutura) >= 3:
         #     if estrutura[0] in locals():
-        #         confirmacao = []
-        #         for resp_chute in estrutura[1::]:
-        #             confirmacao.append(resp_chute)
-        #         resposta_final = random.randint(2, len(confirmacao))
-        #         if '$' in estrutura[resposta_final]:
-        #             resposta_ao_telegram = locals()[estrutura[0]](estrutura[resposta_final])
-        #             print(resposta_ao_telegram)
-        #         else:
-        #             print(estrutura[resposta_final])
+        #         resposta_ao_telegram = locals()[estrutura[0]](estrutura)
+        #         print(resposta_ao_telegram)
         #     else:
         #         print("funcao especificada no CSV nao existe no codigo python!!!")
+        elif len(estrutura) >= 3:
+            if estrutura[0] in locals():
+                confirmacao = []
+                for resp_chute in estrutura[1::]:
+                    confirmacao.append(resp_chute)
+                resposta_final = random.randint(2, len(confirmacao))
+                if '$' in estrutura[resposta_final]:
+                    resposta_ao_telegram = locals()[estrutura[0]](estrutura[resposta_final])
+                    print(resposta_ao_telegram)
+                else:
+                    print(estrutura[resposta_final])
+            else:
+                print("funcao especificada no CSV nao existe no codigo python!!!")
         else:
             print("encontrado entrada no CSV nao permitida!")

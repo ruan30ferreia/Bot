@@ -1,4 +1,4 @@
-hall:Olá está me chamando, meu nome e hall estou aqui para te auxiliar e te fazer compania
+soma:hall:Olá está me chamando $, meu nome e hall estou aqui para te auxiliar e te fazer compania
 ola node:ola precisa de algo?
 hall como voce esta:estou bem, e você como esta?
 hall como esta:estou bem, e você como esta?
