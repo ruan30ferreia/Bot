@@ -16,6 +16,7 @@ def soma(estrutura, name):
     return estrutura.replace("$", name)
 
 
+# Essa variavel é uma lista que recebe os ids das musicas salvas por mim no arquivo ID_music.txt
 audio = abre_id('ID_music.txt')
 
 
@@ -107,8 +108,6 @@ def recebendo(msg):
                                     bot.sendMessage(chatID, resposta_ao_telegram)
                                 else:
                                     bot.sendMessage(chatID, estrutura[resposta_final])
-                            else:
-                                print("funcao especificada no CSV nao existe no codigo python!!!")
                         else:
                             print("encontrado entrada no CSV nao permitida!")
     else:
