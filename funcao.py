@@ -3,7 +3,7 @@ import random
 mi = ['ola', 'teste', 'como vai']
 chute = random.choices(mi)
 embaralhar = random.shuffle(mi)
-# with open('central.txt', 'r', encoding='utf-8') as file:
+# with open('centralMessages.txt', 'r', encoding='utf-8') as file:
 #     for frase_pv in file:
 #         camp1, camp2 = frase_pv.split(':')
 #         camp2_list = camp2.split()
@@ -17,7 +17,7 @@ embaralhar = random.shuffle(mi)
 #    print(frase)
 
 
-#with open('central.txt', 'r', encoding='utf-8') as file:
+#with open('centralMessages.txt', 'r', encoding='utf-8') as file:
 #    for frase_pv in file:
 #        funcao_da_pergunta, pergunta, resposta = frase_pv.split
 #        # funcao_da_pergunta = funcao_da_pergunta
@@ -29,7 +29,7 @@ embaralhar = random.shuffle(mi)
 #     return frase.replace("$", nome)
 #
 #
-# with open('central.txt', 'r', encoding='utf-8') as file:
+# with open('centralMessages.txt', 'r', encoding='utf-8') as file:
 #     for frase_pv in file:
 #         estrutura = frase_pv.split(':')
 #         resposta_ao_telegram = locals()[estrutura[0]](estrutura[1], 'ruan')
