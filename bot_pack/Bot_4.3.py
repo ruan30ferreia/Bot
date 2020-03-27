@@ -10,6 +10,8 @@ from bot_pack.textModifiers import *
 from bot_pack.timeNow import *
 
 
+# Essa função (soma) em especifico eu achamo ela no centralMessages.txt ai se na resposta la tiver esses sinal $ ela
+# troca pelo nome da pessoa
 def soma(estrutura, name):
     return estrutura.replace("$", name)
 
