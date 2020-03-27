@@ -2,6 +2,7 @@ from datetime import datetime
 from pytz import timezone
 
 
+# Essa função é para pegar a hora atual!
 def hour():
     data_e_hora_atuais = datetime.now()
     fuso_horario = timezone('America/Sao_Paulo')
@@ -10,6 +11,7 @@ def hour():
     return hora_sao_paulo
 
 
+# Essa função é para pegar o dia atual, mas poderia pegar o mes e o ano tambem!
 def dat():
     data_e_hora_atuais = datetime.now()
     fuso_horario = timezone('America/Sao_Paulo')

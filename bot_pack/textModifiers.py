@@ -1,6 +1,7 @@
 # Arquivo para colocar as funções que mexeram com os arquivos .txt
 
 
+# Essa função abre o id das musicas salvas em um .txt
 def abre_id(arq):
     with open(arq, 'r') as lei:
         z = []

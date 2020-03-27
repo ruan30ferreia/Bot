@@ -1,5 +1,7 @@
 from amanobot.namedtuple import InlineKeyboardMarkup, InlineKeyboardButton
 
+# Essas funções contem as informações dos botões que seram mostrados nas mensagens!
+
 
 def botao1(tt=None):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[

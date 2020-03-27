@@ -8,9 +8,9 @@ abecedario = {'á': 'a', 'à': 'a', 'â': 'a', 'ã': 'a', 'Á': 'a', 'À': 'a', 
 lista_acentos = ['`', '´', '~', '^', '?', '!']
 
 
+# Essa função troca algumas abreviações que tiverem na frase se tiverem e tira letras maiusuclas e acentos.
 def ABC(frase):
     letras_frase = list(frase)
-    # palavras_frase = frase.split()
     for i in abecedario:
         while i in letras_frase:
             if i in letras_frase:
