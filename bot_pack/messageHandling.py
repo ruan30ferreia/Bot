@@ -6,9 +6,8 @@ t = ['vc', 'vm', 'blz', 'vms', 'hj']
 
 
 # Essa função troca algumas abreviações que tiverem na frase se tiverem e tira letras maiusuclas e acentos.
-def ABC(frase):
-    frase = frase.lower()
-    letras_frase = list(frase)
+def refactoring(frase):
+    letras_frase = list(frase.lower())
     for i in abecedario:
         while i in letras_frase:
             if i in letras_frase:

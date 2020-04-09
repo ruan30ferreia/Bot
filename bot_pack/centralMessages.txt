@@ -1,4 +1,4 @@
-soma:e hoje hall:e sim pode deixar
+rece
 soma:hall comandos: hall painel eletrico, hall vivo fibra, hall medicao mensal, hall caixa de agua, hall tapete e luva de borracha, hall spda, hall gerador, hall registro agua fria, hall hidrante.
 soma:gerador hall: o gerador possui a capacidade de 237.5 KVA , corrente de 361 amperes , tensão de 380 volts , bateria de 12volts de 150Ah modelo platoon. Sua preventiva é realizada mensalmente pela empresa CDMC.
 soma:hall gerador: o gerador possui a capacidade de 237.5 KVA , corrente de 361 amperes , tensão de 380 volts , bateria de 12volts de 150Ah modelo platoon. Sua preventiva é realizada mensalmente pela empresa CDMC.

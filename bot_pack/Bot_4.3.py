@@ -5,15 +5,10 @@ import emojis
 from time import sleep
 import random
 from bot_pack.buttonFunction import *
-from bot_pack.messageHandling import ABC
+from bot_pack.messageHandling import refactoring
 from bot_pack.textModifiers import *
 from bot_pack.timeNow import *
-
-
-# Essa função (soma) em especifico eu achamo ela no centralMessages.txt ai se na resposta la tiver esses sinal $ ela
-# troca pelo nome da pessoa
-def soma(estrutura, name):
-    return estrutura.replace("$", name)
+from bot_pack.FunctionCenter import *
 
 
 # Essa variavel é uma lista que recebe os ids das musicas salvas por mim no arquivo ID_music.txt
@@ -29,13 +24,12 @@ def recebendo(msg):
     risadinha = emojis.encode(":joy:")
     name = msg['from']['first_name']
     if len(a) > 0:
-        limpesa = ABC(msg['text'])
+        limpesa = refactoring(msg['text'])
         if conta[0] == 'hall1' or conta[0] == 'Hall1':
             bot.sendMessage(chatID, f"Seja bem vindo {conta[1]} {conta[2] if len(conta) >= 3 else ''}, "
-                                f"veja os videos e escute os audios , e "
-                                "principalmente coloque uma foto e nome validos , para  a nossa e sua "
-                                "segurança e também não ser banido pelo robo do grupo, vc vendo os videos "
-                                "saberá como aproveitar os arquivos e musicas do grupo com muito mais "
+                                f"veja os videos e escute os audios , e principalmente coloque uma foto e nome validos "
+                                f", para  a nossa e sua segurança e também não ser banido pelo robo do grupo, vc vendo "
+                                f"os videos saberá como aproveitar os arquivos e musicas do grupo com muito mais "
                                 "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
                                 "que tiver, isso ajuda a todos, obrigado."
                                 " ———————————————————————————————————————————————————————————-   "
