@@ -124,21 +124,13 @@ audio = abre_id('id.txt')
 
 
 def recebendo(msg):
+    # print(msg)
     chatID = msg['chat']['id']
-    a = msg['text'] if ('text' in msg) else ''
-    conta = a.split()
-    letras_mens = list(a)
-    aviso_x = emojis.encode(":x:")
-    risadinha = emojis.encode(":joy:")
-    name = msg['from']['first_name']
-    if len(a) > 0:
-        limpesa = ABC(msg['text'])
-        if conta[0] == 'hall1' or conta[0] == 'Hall1':
-            bot.sendMessage(chatID, f"Seja bem vindo {conta[1]} {conta[2] if len(conta) >= 3 else ''}, "
-                                f"veja os videos e escute os audios , e "
-                                "principalmente coloque uma foto e nome validos , para  a nossa e sua "
-                                "segurança e também não ser banido pelo robo do grupo, vc vendo os videos "
-                                "saberá como aproveitar os arquivos e musicas do grupo com muito mais "
+    if 'new_chat_member' in msg:
+        bot.sendMessage(chatID, f"Seja bem vindo {msg['new_chat_member']['first_name']} {msg['new_chat_member']['last_name']} "
+                                f"veja os videos e escute os audios , e principalmente coloque uma foto e nome validos "
+                                f", para  a nossa e sua segurança e também não ser banido pelo robo do grupo, vc vendo "
+                                f"os videos saberá como aproveitar os arquivos e musicas do grupo com muito mais "
                                 "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
                                 "que tiver, isso ajuda a todos, obrigado."
                                 " ———————————————————————————————————————————————————————————-   "
@@ -147,65 +139,14 @@ def recebendo(msg):
                                 "banned by the group robot, u watching the videos will know how to "
                                 "enjoy the files and music. of the group much easier, follow the few "
                                 "rules, share as many files as you have, it helps everyone, thanks.")
-            bot.sendVoice(chatID, 'AwACAgEAAxkBAANVXiuxhUE0WgJDyqj4AAG4eM8254ZiAAI0AAPnWOhEAQg3hqI1xhQYBA')
-            bot.sendVoice(chatID, 'AwACAgEAAxkBAANlXiu4q4yzXzfJe6tBjArmNKjYaUYAAlwAA-dY4ETHWLuPWrOryBgE')
-            bot.sendVoice(chatID, 'AwACAgEAAxkBAANmXiu4zd9JaawsvLFD4wnEQI9xuBwAAl8AA-dY4EQwetjYNiG1eRgE')
-            bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
-            bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
-            bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
-                
-        elif limpesa == 'hall menu':
-            bot.sendMessage(chatID, "***OPÇÕES DO MENU CLIQUE***", reply_markup=botao2())
-
-        elif limpesa == 'hall2':
-            bot.sendMessage(chatID, "Todos os usuarios que não tiverem foto seram BANIDOS! Por "
-                                    "favor colocar foto de perfil!")
-        elif limpesa == 'hall que horas sao' or limpesa == 'que horas sao hall' or \
-                limpesa == 'hall que hora e' or limpesa == 'hall que horas e':
-            bot.sendMessage(chatID, f"Agora é {hora_sao_paulo}")
-
-        elif limpesa == 'hall que dia e hoje' or limpesa == 'que dia e hoje hall':
-            bot.sendMessage(chatID, f"Hoje é dia {dia_sao_paulo}")
-
-        elif conta[0] == '+' or conta[0] == '+':
-            conta.pop(0)
-            men_s = ' '.join(conta)
-            bot.sendMessage(-1001140402839, text=men_s)
-
-        elif limpesa == 'hall aviso grupo':
-            bot.sendMessage(-1001140402839, "Todos os usuarios que não tiverem foto seram BANIDOS!"
-                                            " Por favor colocar foto de perfil!")
-            sleep(0.5)
-            bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
-            bot.sendMessage(-1001140402839, "Quem não souber colocar foto no perfil, olhem o video abaixo!")
-            bot.sendMessage(-1001140402839, "https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s")
-            bot.sendMessage(-1001140402839, "Ultimo aviso!")
-            sleep(0.5)
-            bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
-
-        elif letras_mens.count('k') > 4:
-            bot.sendMessage(chatID, f"Qual a graça, {msg['from']['first_name']} ?")
-            bot.sendMessage(chatID, text=risadinha)
-
-        elif letras_mens.count('?') > 3:
-            bot.sendMessage(chatID, f"Qual a duvida,posso ajudar {msg['from']['first_name']}?")
-
-        else:
-            checagem_file = testeFile(name, limpesa)
-            if checagem_file == 'contem':
-                with open(name + '.txt', 'r', encoding="UTF8") as conv_pv:
-                    for frase_pv in conv_pv:
-                        camp1, camp2 = frase_pv.split(':')
-                        if camp1 == limpesa:
-                            bot.sendMessage(chatID, camp2)
-            else:
-                with open('hall_txt_novo.txt', 'r', encoding="UTF8") as cvr:
-                    for frases_central in cvr:
-                        campo1, campo2 = frases_central.split(':')
-                        if campo1 == limpesa:
-                            bot.sendMessage(chatID, campo2)
+        bot.sendVoice(chatID, 'AwACAgEAAxkBAANVXiuxhUE0WgJDyqj4AAG4eM8254ZiAAI0AAPnWOhEAQg3hqI1xhQYBA')
+        bot.sendVoice(chatID, 'AwACAgEAAxkBAANlXiu4q4yzXzfJe6tBjArmNKjYaUYAAlwAA-dY4ETHWLuPWrOryBgE')
+        bot.sendVoice(chatID, 'AwACAgEAAxkBAANmXiu4zd9JaawsvLFD4wnEQI9xuBwAAl8AA-dY4EQwetjYNiG1eRgE')
+        bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
+        bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
+        bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
     else:
-        print('nenhum texto!')
+        print('nada encontrado!')
 
 
 def on_callback_query(msg):
