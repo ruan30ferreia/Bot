@@ -1,5 +1,2 @@
 soma:como vai:vou bem $:não estou nada bem $!:para que quer saber $:NÃO $
-teste:tudo bem:sim tudo bem $.
-soma:vai cagar:vai voce $
-ola:ola como vai
-ola node:ola hall kkkk
+ola hall:ola como vai
