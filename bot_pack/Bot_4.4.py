@@ -5,13 +5,15 @@ import emojis
 from time import sleep
 import random
 from bot_pack.buttonFunction import *
-from bot_pack.messageHandling import refactoring
+from bot_pack.messageHandling import ABC
 from bot_pack.textModifiers import *
 from bot_pack.timeNow import *
-from bot_pack.FunctionCenter import *
 
 
-# Essa variavel é uma lista que recebe os ids das musicas salvas por mim no arquivo ID_music.txt
+def soma(estrutura, name):
+    return estrutura.replace("$", name)
+
+
 audio = abre_id('ID_music.txt')
 
 
@@ -23,13 +25,27 @@ def recebendo(msg):
     aviso_x = emojis.encode(":x:")
     risadinha = emojis.encode(":joy:")
     name = msg['from']['first_name']
-    if len(a) > 0:
-        limpesa = refactoring(msg['text'])
-        if conta[0] == 'hall1' or conta[0] == 'Hall1':
-            bot.sendMessage(chatID, f"Seja bem vindo {conta[1]} {conta[2] if len(conta) >= 3 else ''}, "
-                                f"veja os videos e escute os audios , e principalmente coloque uma foto e nome validos "
-                                f", para  a nossa e sua segurança e também não ser banido pelo robo do grupo, vc vendo "
-                                f"os videos saberá como aproveitar os arquivos e musicas do grupo com muito mais "
+    if 'new_chat_member' in msg:
+            if 'last_name' in msg:
+                bot.sendMessage(chatID, f"Seja bem vindo {msg['new_chat_member']['first_name']} {msg['new_chat_member']['last_name']} "
+                                f"veja os videos e escute os audios , e "
+                                "principalmente coloque uma foto e nome validos , para  a nossa e sua "
+                                "segurança e também não ser banido pelo robo do grupo, vc vendo os videos "
+                                "saberá como aproveitar os arquivos e musicas do grupo com muito mais "
+                                "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
+                                "que tiver, isso ajuda a todos, obrigado."
+                                " ———————————————————————————————————————————————————————————-   "
+                                "watch the videos and listen to the audios, and especially put a "
+                                "valid photo and name, for ours and your safety and also not be "
+                                "banned by the group robot, u watching the videos will know how to "
+                                "enjoy the files and music. of the group much easier, follow the few "
+                                "rules, share as many files as you have, it helps everyone, thanks.")
+            else:
+                bot.sendMessage(chatID, f"Seja bem vindo {msg['new_chat_member']['first_name']} "
+                                f"veja os videos e escute os audios , e "
+                                "principalmente coloque uma foto e nome validos , para  a nossa e sua "
+                                "segurança e também não ser banido pelo robo do grupo, vc vendo os videos "
+                                "saberá como aproveitar os arquivos e musicas do grupo com muito mais "
                                 "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
                                 "que tiver, isso ajuda a todos, obrigado."
                                 " ———————————————————————————————————————————————————————————-   "
@@ -44,8 +60,10 @@ def recebendo(msg):
             bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
             bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
             bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
-                
-        elif limpesa == 'hall menu' or limpesa == 'menu hall':
+
+    elif len(a) > 0:
+        limpesa = ABC(msg['text'])
+        if limpesa == 'hall menu' or limpesa == 'menu hall':
             bot.sendMessage(chatID, "***OPÇÕES DO MENU CLIQUE***", reply_markup=botao2())
 
         elif limpesa == 'hall2':
@@ -74,11 +92,11 @@ def recebendo(msg):
             sleep(0.5)
             bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
 
-        elif letras_mens.count('k') > 4:
+        elif letras_mens.count('k') > 6:
             bot.sendMessage(chatID, f"Qual a graça, {msg['from']['first_name']} ?")
             bot.sendMessage(chatID, text=risadinha)
 
-        elif letras_mens.count('?') > 3:
+        elif letras_mens.count('?') > 4:
             bot.sendMessage(chatID, f"Qual a duvida,posso ajudar {msg['from']['first_name']}?")
 
         else:
@@ -104,8 +122,7 @@ def recebendo(msg):
                                     bot.sendMessage(chatID, estrutura[resposta_final])
                         else:
                             print("encontrado entrada no CSV nao permitida!")
-    else:
-        print('nenhum texto!')
+    limpesa = ABC(a)
 
 
 def on_callback_query(msg):
@@ -149,17 +166,17 @@ def on_callback_query(msg):
         for i in audio[0:15]:
             bot.sendAudio(from_id, audio=i)
         bot.sendMessage(from_id, 'Por enquanto só enviarei esses!')
-        bot.sendMessage(chat_id, f"Enviei no seu  privado {name}")
+        bot.sendMessage(chat_id, f"Enviei no seu  privado")
 
     elif query_data == 'curs':
-        bot.sendMessage(chat_id, f"Sem cursos no momento!")
+        bot.sendMessage(chat_id, f"Sem cursos no momento! Procure nos arquivos do grupo que tem varios tutoriais")
 
     elif query_data == 'li':
-        bot.sendMessage(chat_id, 'Sem HQs no momento!')
+        bot.sendMessage(chat_id, f"Sem HQs no momento!")
 
 
-# TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
-TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
+TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
+# TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
 bot = amanobot.Bot(TOKEN)
 MessageLoop(bot, {'chat': recebendo,
                   'callback_query': on_callback_query}).run_as_thread()
