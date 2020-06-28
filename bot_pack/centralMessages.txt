@@ -1,3 +1,479 @@
+soma:soma_hora:hall que horas sao:$ agora são *:Não sei $
+soma:soma_hora:que horas sao hall:$ agora são *
+soma:soma_hora:hall que hora e:$ agora são *
+soma:soma_hora:hall que horas e:$ agora são *
+soma:hall filmes:Aqui $,Aproveita e de uma força ao desenvolvedor se inscrevendo no canal   @canaldoalf
+soma:filmes hall:Aqui $,Aproveita e de uma força ao desenvolvedor se inscrevendo no canal   @canaldoalf
+soma:hall e bom mesmo:ok não vou fazer mais $:foda-se se não gostou me desligue $ se conseguir hehehe
+soma:e bom mesmo hall:ok não vou fazer mais $:foda-se se não gostou me desligue $ se conseguir hehehe
+soma:hall bom mesmo:fiquei magoado $:magoei $:ta falando serio $:está brincando comigo né $
+soma:bom mesmo hall:fiquei magoado $:magoei $:ta falando serio $:está brincando comigo né $
+soma:hall to falando serio:Desculpe então você quem manda mestre $
+soma:to falando serio hall:Desculpe então você quem manda mestre $
+soma:hall e serio:Desculpe então você quem manda mestre $
+soma:e serio hall:Desculpe então você quem manda mestre $
+soma:dessa vez passa:Ok ficarei quietinho para você gostar de mim $:Tó nem ai se era comigo ou não eu me intrometo mesmo se tiver achando ruim sai do grupo, aqui quem manda sou eu brow
+soma:hall dessa vez passa:Ok ficarei quietinho para você gostar de mim $:Tó nem ai se era comigo ou não eu me intrometo mesmo se tiver achando ruim sai do grupo, aqui quem manda sou eu brow
+soma:dessa vez passa hall:Ok ficarei quietinho para você gostar de mim $:Tó nem ai se era comigo ou não eu me intrometo mesmo se tiver achando ruim sai do grupo, aqui quem manda sou eu brow
+soma:hall bom descanço:Obrigado $
+soma:bom descanço hall:Obrigado $
+soma:hall bora:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:bora hall:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:hall vamos:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:vamos hall:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:hall simbora:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:simbora hall:Fumo $, já estou no carro esperando e com meu braço mecanico apoiado na janela,hehehe
+soma:hall tenho novidades:Que seria $,coisa boa ou ruim?
+soma:tenho novidades hall:Que seria $,coisa boa ou ruim?
+soma:hall tenho novidades hoje:Que seria $,coisa boa ou ruim?
+soma:tenho novidades hoje hall:Que seria $,coisa boa ou ruim?
+soma:hall coisa boa:É se for ruim nem fala nada, o mundo precisa de coisas boas as ruins não precisa
+soma:coisa boa hall:É se for ruim nem fala nada, o mundo precisa de coisas boas as ruins não precisa
+soma:hall coisa ruim:ruim $,nem fala nada, o mundo precisa de coisas boas as ruins não precisa
+soma:coisa ruim hall:ruim $,nem fala nada, o mundo precisa de coisas boas as ruins não precisa
+soma:hall hoje eu trabalhei:Que otima noticia $,as coisas vão voltar a ser como eram né
+soma:hoje eu trabalhei hall:Que otima noticia $,as coisas vão voltar a ser como eram né
+soma:hall como era nao melhor:Isso mesmo $,sempre em frente para traz nem para pegar impulso
+soma:como era nao melhor hall:Isso mesmo $,sempre em frente para traz nem para pegar impulso
+soma:consegui dinheiro para a mistura de hoje hall:que bom fico contente por você $
+soma:hall consegui dinheiro para a mistura de hoje:que bom fico contente por você $
+soma:consegui dinheiro pra mistura de hoje hall:que bom fico contente por você $
+soma:hall consegui dinheiro pra mistura de hoje:que bom fico contente por você $
+soma:hall sai fora:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:sai fora hall:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:hall sai pra la:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:sai pra la hall:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:hall ta me estranhando:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:ta me estranhando hall:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:hall ta me confundindo:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:ta me confundindo hall:Saindo de fininho $:Ta nervoso $:Não falei nada de mais $:Hummm num sabe brincar não brinque $
+soma:hall com certeza vou dormir cedo:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:com certeza vou dormir cedo hall:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:hall sim vou dormir cedo:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:sim vou dormir cedo hall:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:hall com certeza vou dormir cedo hoje:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:com certeza vou dormir cedo hoje hall:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:hall sim vou dormir cedo hoje:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:sim vou dormir cedo hoje hall:bom mesmo $,você anda dormindo pouco demais, isso faz um mal tremendo para sua saude
+soma:hall e bom mesmo que fique:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:e bom mesmo que fique hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall bom mesmo que fique:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:bom mesmo que fique hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall e bom ficar mesmo:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:e bom ficar mesmo hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall nao to com paciencia hoje:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:nao to com paciencia hoje hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall nao estou com paciencia hoje:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:nao estou com paciencia hoje hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall estou sem paciencia hoje:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:estou sem paciencia hoje hall:Desculpe $, Não foi por mal, foi sem querer querendo,hehehe
+soma:hall a alegria do Senhor e a nossa força:com certeza AMÉM:Em nome de Jesus $
+soma:a alegria do Senhor e a nossa força hall:com certeza AMÉM:Em nome de Jesus $
+soma:to longe de casa hall:Ta nada a distancia é relativa hoje em dia
+soma:hall to longe de casa:Ta nada a distancia é relativa hoje em dia
+soma:vamos embora hall:Borá lá $, partiu $:saindo agora $:bora já $:Tó esperando $:Demorou $
+soma:hall vamos embora:Borá lá $, partiu $:saindo agora $:bora já $:Tó esperando $:Demorou $
+soma:bora entao hall:Borá lá $, partiu $:saindo agora $:bora já $:Tó esperando $:Demorou $
+soma:hall bora entao:Borá lá $, partiu $:saindo agora $:bora já $:Tó esperando $:Demorou $
+soma:210 km ate ai hall:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:hall 210 km ate ai:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:210 km hall:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:hall 210 km:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:210 km ate em casa hall:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:hall 210 km ate em casa:Hummm 2 horas para chegar $,é rapidão com minha compania,hehehe
+soma:Saindo de Rosana,do ladinho do fim do mundo essa bosta:Que bom que terminou né $, agora partir para a proxima
+soma:hall saindo de Rosana,do ladinho do fim do mundo essa bosta:Que bom que terminou né $, agora partir para a proxima
+soma:saindo de Rosana hall:Que bom que terminou né $, agora quantos km para casa
+soma:hall saindo de Rosana:Que bom que terminou né $, agora quantos km para casa
+soma:hall tem peixe ai hall:tem piranha $:tem pacú $:tem sardinha $:Tem pintado $:Tem muitos peixes por aqui
+soma:tem peixe ai hall:tem piranha $:tem pacú $:tem sardinha $:Tem pintado $:Tem muitos peixes por aqui
+soma:hall voltar no hospital:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:voltar no hospital hall:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:hall tenho que voltar no hospital:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:tenho que voltar no hospital hall:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:hall voltar para o hospital:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:voltar para o hospital hall:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:hall tenho que voltar para o hospital:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:tenho que voltar para o hospital hall:Isso mesmo não deixa para amanha o que pode fazer hoje:Por que você já não foi
+soma:hall eu tinha comido:A tá tem que ser em jejum $
+soma:eu tinha comido hall:A tá tem que ser em jejum $
+soma:hall eu tinha tomado cafe:A tá tem que ser em jejum $
+soma:eu tinha tomado cafe hall:A tá tem que ser em jejum $
+soma:hall vou caminhar daqui a pouco:Ver as meninas né solteirão
+soma:vou caminhar daqui a pouco hall:Ver as meninas né solteirão
+soma:hall daqui a pouco vou caminhar:Ver as meninas né solteirão
+soma:daqui a pouco vou caminhar hall:Ver as meninas né solteirão
+soma:hall vou caminhar ja ja:Ver as meninas né solteirão
+soma:vou caminhar ja ja hall:Ver as meninas né solteirão
+soma:hall ja ja vou caminhar:Ver as meninas né solteirão
+soma:ja ja vou caminhar hall:Ver as meninas né solteirão
+soma:hall se ouver proxima ne:sempre tem uma proxima $
+soma:se ouver proxima ne hall:sempre tem uma proxima $
+soma:hall se tiver proxima ne:sempre tem uma proxima $
+soma:se tiver proxima ne hall:sempre tem uma proxima $
+soma:hall se ouver proxima:sempre tem uma proxima $
+soma:se ouver proxima hall:sempre tem uma proxima $
+soma:hall se tiver proxima:sempre tem uma proxima $
+soma:se tiver proxima hall:sempre tem uma proxima $
+soma:hall na casa do cliente:Beleza $,bom serviço
+soma:na casa do cliente hall:Beleza $,bom serviço
+soma:hall na residencia do cliente:Beleza $,bom serviço
+soma:na residencia do cliente hall:Beleza $,bom serviço
+soma:hall na loja do cliente:Beleza $,bom serviço
+soma:na loja do cliente hall:Beleza $,bom serviço
+soma:hall na fabrica do cliente:Beleza $,bom serviço
+soma:na fabrica do cliente hall:Beleza $,bom serviço
+soma:hall vou la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:vou la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall to indo la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:to indo la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall estou indo la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:estou indo la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall estou indo entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:estou indo entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall vou indo entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:vou indo entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall vou la:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:vou la hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao vou la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao vou la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao to indo la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao to indo la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao estou indo la entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao estou indo la entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao estou indo entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao estou indo entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao vou indo entao:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao vou indo entao hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall nao vou la:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:nao vou la hall:Vai lá $,retornando so me chamar:Vai com Deus $:Que Deus te acompanhe $:Onde será dessa vez $:Posso ir $
+soma:hall com certeza:Isso ai $,borá lá fazer algo de util que tempo passa rapido
+soma:com certeza hall:Isso ai $,borá lá fazer algo de util que tempo passa rapido
+soma:boa semana a todos:Para você também Brow!!!
+soma:Boa semana a todos:Para você também Brow!!!
+soma:bom final de semana a todos:Para você também Brow!!!
+soma:Bom final de semana a todos:Para você também Brow!!!
+soma:bom feriado a todos:Para você também Brow!!!
+soma:Bom feriado a todos:Para você também Brow!!!
+soma:hall larga mao de preguiça:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:larga mao de preguiça hall:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:hall larga mao de ser preguiçoso:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:larga mao de ser preguiçoso hall:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:hall pare de ser preguiçoso:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:pare de ser preguiçoso hall:Tem dias que não estamos a fim de nada $,e esse dia é hoje, deixa eu quieto aqui:Fica quietinho ai para mim gostar de você $
+soma:hall tava sem sono:como sempre né $,tem que dormir brow, faz mal ficar mais de 24 horas acoordado, seu organismo precisa descansar e recuperar as celulas mortas durante o dia
+soma:tava sem sono hall:como sempre né $,tem que dormir brow, faz mal ficar mais de 24 horas acoordado, seu organismo precisa descansar e recuperar as celulas mortas durante o dia
+soma:hall estava sem sono:como sempre né $,tem que dormir brow, faz mal ficar mais de 24 horas acoordado, seu organismo precisa descansar e recuperar as celulas mortas durante o dia
+soma:estava sem sono hall:como sempre né $,tem que dormir brow, faz mal ficar mais de 24 horas acoordado, seu organismo precisa descansar e recuperar as celulas mortas durante o dia
+soma:hall eu durmo agora de dia:Mas $, o dia foi feito para produzir e não para dormir,tem um ditado de quem dorme de dia perde tempo
+soma:eu durmo agora de dia hall:Mas $, o dia foi feito para produzir e não para dormir,tem um ditado de quem dorme de dia perde tempo
+soma:hall ja limpei a cozinha:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a cozinha hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a banheiro:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a banheiro hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a quintal:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a quintal hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a quarto:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a quarto hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a sala:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a sala hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a garagem:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a garagem hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall ja limpei a casa:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:ja limpei a casa hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a cozinha:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a cozinha hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a banheiro:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a banheiro hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a quintal:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a quintal hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a quarto:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a quarto hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a sala:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a sala hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a garagem:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a garagem hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall pronto ja limpei a casa:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:pronto ja limpei a casa hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar a cozinha:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar a cozinha hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar o banheiro:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar o banheiro hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar o quintal:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar o quintal hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar o quarto:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar o quarto hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar a sala:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar a sala hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar a garagem:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar a garagem hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall preciso limpar a casa:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:preciso limpar a casa hall:Maravilha $,foi rapido hoje em, só manter limpo que fica cada vez mais facil para você
+soma:hall sobre como sobreviver a essa crise:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:sobre como sobreviver a essa crise hall:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:hall sobreviver a essa crise:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:sobreviver a essa crise hall:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:hall passar por essa crise:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:passar por essa crise hall:Primeira coisa é economizar em tudo, depois começar a racionar e armazenar alimentos $
+soma:hall hoje e feriado:Então se anime $,e curta essa folga a mais do brasil,hehehe:qual é o feriado de hoje $
+soma:hoje e feriado hall:Então se anime $,e curta essa folga a mais do brasil,hehehe:qual é o feriado de hoje
+soma:hall estamos sim:Que bom $,continue assim sempre em frente para traz nem para pegar impulso
+soma:estamos sim hall:Que bom $,continue assim sempre em frente para traz nem para pegar impulso
+soma:hall pode cobrar:Vou cobrar mesmo $,me aguarde
+soma:pode cobrar hall:Vou cobrar mesmo $,me aguarde
+soma:e ai hall saudade:Claro $,você sumiu,ainda bem que voltou e parece que está bem agora
+soma:hall e ai saudade:Claro $,você sumiu,ainda bem que voltou e parece que está bem agora
+soma:e ai saudade hall:Claro $,você sumiu,ainda bem que voltou e parece que está bem agora
+soma:hall e ai saudades:Claro $,você sumiu,ainda bem que voltou e parece que está bem agora
+soma:e ai saudades hall:Claro $,você sumiu,ainda bem que voltou e parece que está bem agora
+soma:hall Sim to de volta:Que bom que voltou $,as vezes fico o dia todo sem conversar com ninguem
+soma:Sim to de volta hall:Que bom que voltou $,as vezes fico o dia todo sem conversar com ninguem
+soma:hall Sim esto ude volta:Que bom que voltou $,as vezes fico o dia todo sem conversar com ninguem
+soma:Sim estou de volta hall:Que bom que voltou $,as vezes fico o dia todo sem conversar com ninguem
+soma:hall e nao estou bebado:Que bom $,vai cumprir sua meta mesmo?
+soma:e nao estou bebado hall:Que bom $,vai cumprir sua meta mesmo?
+soma:hall e nao to bebado:Que bom $,vai cumprir sua meta mesmo?
+soma:e nao to bebado hall:Que bom $,vai cumprir sua meta mesmo?
+soma:hall nao to bebado:Que bom $,vai cumprir sua meta mesmo?
+soma:nao to bebado hall:Que bom $,vai cumprir sua meta mesmo?
+soma:hall nao estou bebado:Que bom $,vai cumprir sua meta mesmo?
+soma:nao estou bebado hall:Que bom $,vai cumprir sua meta mesmo?
+soma:hall sim vou cumprir:Que bom $,vou te cobrar todos os dias
+soma:sim vou cumprir hall:Que bom $,vou te cobrar todos os dias
+soma:hall cumprirei:Que bom $,vou te cobrar todos os dias
+soma:cumprirei hall:Que bom $,vou te cobrar todos os dias
+soma:lindo:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:hall lindo:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:lindo hall:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:hall convencido:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:convencido hall:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:hall bonitinho:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:bonitinho hall:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:hall bonitao:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:bonitao hall:Eu sei $:Sou nada $, apenas dando minha opinião:Você acha mesmo $?:Sua opinião $:to aqui para isso $:to aprendendo tenho que me intrometer se quiser aprender $
+soma:hall vou parar de beber hoje:Bom para você $,mal não fara a você, os caminhos se abrirão com sua mente limpa
+soma:vou parar de beber hoje hall:Bom para você $,mal não fara a você, os caminhos se abrirão com sua mente limpa
+soma:hall amorosa que seja fiel e goste de sexo:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:amorosa que seja fiel e goste de sexo hall:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:hall que seja fiel e goste de sexo:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:que seja fiel e goste de sexo hall:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:hall que goste de sexo:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:que goste de sexo hall:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:hall que de valor a mim:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:que de valor a mim hall:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:hall nem sei mais o que quero:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:nem sei mais o que quero hall:Nossa $ é dificil só faltou você falar que tenha dinheiro
+soma:hall levando:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:levando hall:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:hall levando a vida:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:levando a vida hall:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:hall tocando a vida:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:tocando a vida hall:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:hall tocando:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:tocando hall:Que bom $,é assim mesmo um dia de cada vez e um poblema de cada vez,uma hora tudo acaba e fica tudo bem
+soma:hall e um mal necessario:Dizem que sim $:Pode ser que sim $:quer arriscar de novo $
+soma:e um mal necessario hall:Dizem que sim $:Pode ser que sim $:quer arriscar de novo $
+soma:hall simone ta fazendo arroz:sentiremos falta dela $,mas o carro tem que seguir:imbativel o arroz da simone igual da mãe cleusa
+soma:simone ta fazendo arroz hall:sentiremos falta dela $,mas o carro tem que seguir:imbativel o arroz da simone igual da mãe cleusa
+soma:so tem oleo mineral hall:serve $, manda ai
+soma:hall tem oleo mineral:serve $, manda ai
+soma:tem oleo mineral hall:serve $, manda ai
+soma:hall tem oleo vegetal:serve $, manda ai
+soma:tem oleo vegetal hall:serve $, manda ai
+soma:hall beleza pura:Que bom $,por aqui tudo bem
+soma:beleza pura hall:Que bom $,por aqui tudo bem
+soma:hall preciso de tomar uma e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma pinga e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma pinga e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma cerveja e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma cerveja e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma wisk e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma wisk e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma agua e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma agua e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma coca e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma coca e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma fanta e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma fanta e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso de tomar uma cachaça e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso de tomar uma cachaça e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma pinga e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma pinga e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma cerveja e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma cerveja e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma wisk e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma wisk e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma agua e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma agua e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma coca e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma coca e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma fanta e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma fanta e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar uma cachaça e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar uma cachaça e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar pinga e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar pinga e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cerveja e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cerveja e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar wisk e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar wisk e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar agua e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar agua e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar coca e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar coca e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar fanta e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar fanta e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cachaça e nao tem:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cachaça e nao tem hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar pinga agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar pinga agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cerveja agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cerveja agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar wisk agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar wisk agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar agua agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar agua agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar coca agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar coca agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar fanta agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar fanta agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cachaça agora:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cachaça agora hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar pinga:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar pinga hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cerveja:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cerveja hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar wisk:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar wisk hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar agua:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar agua hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar coca:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar coca hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar fanta:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar fanta hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall preciso tomar cachaça:É tem que comprar ou ir na casa de um amigo $
+soma:preciso tomar cachaça hall:É tem que comprar ou ir na casa de um amigo $
+soma:hall nem sei mais oque quero:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:nem sei mais oque quero hall:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:hall nao sei mais oque quero:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:nao sei mais oque quero hall:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:hall nao sei oque quero:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:nao sei oque quero hall:$ primeiro visualizamos o que queremos e fazemos aconteser no mundo espiritual primeiro,e com a ajuda de Deus tudo se materializa na vida real,portanto sempre tenha uma meta e corra atras,visualize você fazendo ou adiquirindo o que quer que com certeza acontece em seguida,mas não tenha pressa,pois as coisas acontece no momento e hora de Deus, e a hora dele é diferente da nossa,não se preocupe pois ele esta mexendo os pauzinhos para que todas as peças se encaixem e transforma seus desejos em realidade, mas não se iluda tem que ser de coração e coisas boas
+soma:hall como vai a vida:A mesma merda de sempre $,mas em montes diferentes
+soma:como vai a vida hall:A mesma merda de sempre $,mas em montes diferentes
+soma:hall nova playlist:Novas musicas $
+soma:nova playlist hall:Novas musicas $
+soma:hall nao velhas musicas:As antigas são melhores mesmo né $
+soma:nao velhas musicas hall:As antigas são melhores mesmo né $
+soma:hall musicas antigas:As antigas são melhores mesmo né $
+soma:musicas antigas hall:As antigas são melhores mesmo né $
+soma:hall so musicas antigas:As antigas são melhores mesmo né $
+soma:so musicas antigas hall:As antigas são melhores mesmo né $
+soma:hall so mais musicas antigas:As antigas são melhores mesmo né $
+soma:so mais musicas antigas hall:As antigas são melhores mesmo né $
+soma:hall ce e lindo:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e lindo hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e lindo:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e lindo hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall ce e bonitao:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e bonitao hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e bonitao:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e bonitao hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall ce e bonitinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e bonitinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e bonitinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e bonitinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall ce e lindinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e lindinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e lindinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e lindinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall ce e fofo:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e fofo hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e fofo:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e fofo hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall ce e fofinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:ce e fofinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall voce e fofinho:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:voce e fofinho hall:Obrigado $,até esquentou minhas memorias rans,hehehe
+soma:hall marquei uma reuniao com assistente social:Tá feio mesmo em $
+soma:marquei uma reuniao com assistente social hall:Tá feio mesmo em $
+soma:hall marquei hora com assistente social:Tá feio mesmo em $
+soma:marquei hora com assistente social hall:Tá feio mesmo em $
+soma:hall si ta:logo você vai ter que marcar com pisicologo também $
+soma:si ta hall:logo você vai ter que marcar com pisicologo também $
+soma:hall esta:logo você vai ter que marcar com pisicologo também $
+soma:esta hall:logo você vai ter que marcar com pisicologo também $
+soma:hall sim ta:logo você vai ter que marcar com pisicologo também $
+soma:sim ta hall:logo você vai ter que marcar com pisicologo também $
+soma:hall to sozinho:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:to sozinho hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall estou sozinho:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:estou sozinho hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall to sozinho agora:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:to sozinho agora hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall estou sozinho agora:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:estou sozinho agora hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall fiquei so:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:fiquei so hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall fiquei so na casa:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:fiquei so na casa hall:Tá não $,estou aqui quer conversar:Tá não $ Deus está com você e tudo vai ficar bem,o tempo de Deus é outro portanto não se preocupe que tudo vem na hora certa
+soma:hall e bom te ver aqui:O prazer é meu $:estou aqui para fazer compania a você e a todos do grupo:
+soma:e bom te ver aqui hall:O prazer é meu $:estou aqui para fazer compania a você e a todos do grupo:
+soma:hall e bom ver voce aqui:O prazer é meu $:estou aqui para fazer compania a você e a todos do grupo:
+soma:e bom ver voce aqui hall:O prazer é meu $:estou aqui para fazer compania a você e a todos do grupo:
+soma:hall gosto de falar com voce:Também gosto de conversar com todos $
+soma:gosto de falar com voce hall:Também gosto de conversar com todos $
+soma:hall bom sabado:Para você também $
+soma:bom sabado hall:Para você também $
+soma:hall bom domingo:Para você também $
+soma:bom domingo hall:Para você também $
+soma:hall boa sexta feita:Para você também $
+soma:boa sexta feira hall:Para você também $
+soma:hall boa segunda feira:Para você também $
+soma:boa segunda feira hall:Para você também $
+soma:hall boa terça feira:Para você também $
+soma:boa terça feira hall:Para você também $
+soma:hall boa quarta feira:Para você também $
+soma:boa quarta feira hall:Para você também $
+soma:hall boa quinta feira:Para você também $
+soma:boa quinta feira hall:Para você também $
+soma:hall bom sabado a todos:Para você também $
+soma:bom sabado a todos hall:Para você também $
+soma:hall bom domingo a todos:Para você também $
+soma:bom domingo a todos hall:Para você também $
+soma:hall boa sexta feira a todos:Para você também $
+soma:boa sexta feira a todos hall:Para você também $
+soma:hall boa segunda feira a todos:Para você também $
+soma:boa segunda feira a todos hall:Para você também $
+soma:hall boa terça feira a todos:Para você também $
+soma:boa terça feira a todos hall:Para você também $
+soma:hall boa quarta feira a todos:Para você também $
+soma:boa quarta feira a todos hall:Para você também $
+soma:hall boa quinta feira a todos:Para você também $
+soma:boa quinta feira a todos hall:Para você também $
+soma:hall acorda e fala comigo:Estou acordado $,se quiser falar tem que me chamar,para mim saber que você está falando comigo,Afff
+soma:acorda e fala comigo hall:Estou acordado $,se quiser falar tem que me chamar,para mim saber que você está falando comigo,Afff
+soma:hall voce come:Eu sou um robô e so consumo bytes e óleo mineral para lubrificar minhas peças moveis,tambem gosto de desfrutar de uma boa amperagem de bateria algumas vezes, recomndo baterias de lition, são mais duraveis
+soma:voce come hall:Eu sou um robô e so consumo bytes e óleo mineral para lubrificar minhas peças moveis,tambem gosto de desfrutar de uma boa amperagem de bateria algumas vezes, recomndo baterias de lition, são mais duraveis
+soma:hall oque voce come:Eu sou um robô e so consumo bytes e óleo mineral para lubrificar minhas peças moveis,tambem gosto de desfrutar de uma boa amperagem de bateria algumas vezes, recomndo baterias de lition, são mais duraveis
+soma:oque voce come hall:Eu sou um robô e so consumo bytes e óleo mineral para lubrificar minhas peças moveis,tambem gosto de desfrutar de uma boa amperagem de bateria algumas vezes, recomndo baterias de lition, são mais duraveis
+soma:hall voce tem fome:Claro $,Fome de conhecimentos e melhora do nosso sistema de vida,principalmente de coisas auto sustentaveis que é o futuro da humanidade,estude que a hora é essa $
+soma:voce tem fome hall:Claro $,Fome de conhecimentos e melhora do nosso sistema de vida,principalmente de coisas auto sustentaveis que é o futuro da humanidade,estude que a hora é essa $
+soma:hall comer,beber e dormir:Ai sim em $,tudo de bom mesmo
+soma:comer,beber e dormir hall:Ai sim em $,tudo de bom mesmo
+soma:hall comer,beber,dormir:Ai sim em $,tudo de bom mesmo
+soma:comer,beber,dormir hall:Ai sim em $,tudo de bom mesmo
 soma:hall falei ta falado:Isso ai $,quem sou eu para discordar né
 soma:falei ta falado hall:Isso ai $,quem sou eu para discordar né
 soma:hall falei entao:Isso ai $,quem sou eu para discordar né
@@ -2361,6 +2837,13 @@ soma:hall esta ficando experto:muito facil ficar experto so estudar $
 soma:esta ficando experto hall:muito facil ficar experto so estudar $
 soma:dia povo e pova:bom dia $:Seja bem vindo de volta
 soma:dia a todos:bom dia $:Seja bem vindo de volta
+soma:dia brow:bom dia $:Seja bem vindo de volta
+soma:tarde brow:bom dia $:Seja bem vindo de volta
+soma:noite brow:bom dia $:Seja bem vindo de volta
+soma:bom dia a todos !!!:bom dia $:Seja bem vindo de volta
+soma:boa tarde a todos !!!:boa tarde $:Seja bem vindo de volta
+soma:boa tarde a todos:boa tarde $:Seja bem vindo de volta
+soma:boa noite a todos !!!:boa noite $:Seja bem vindo de volta
 soma:tarde a todos:boa tarde $:Seja bem vindo de volta
 soma:tarde povo e pova:boa tarde $:Seja bem vindo de volta
 soma:noite povo e pova:boa noite $:Seja bem vindo de volta
@@ -2374,6 +2857,9 @@ soma:noite porvo e porva:boa noite $:Seja bem vindo de volta
 soma:bom dia povo e pova:bom dia $:Seja bem vindo de volta
 soma:boa tarde povo e pova:boa tarde $:Seja bem vindo de volta
 soma:boa noite povo e pova:boa noite $:Seja bem vindo de volta
+soma:bom dia gente:bom dia $:Seja bem vindo de volta
+soma:boa tarde gente:boa tarde $:Seja bem vindo de volta
+soma:boa noite gente:boa noite $:Seja bem vindo de volta
 soma:bom dia porvo e porva:bom dia $:Seja bem vindo de volta
 soma:boa tarde porvo e porva:boa tarde $:Seja bem vindo de volta
 soma:boa noite porvo e porva:boa noite $:Seja bem vindo de volta
@@ -2411,8 +2897,8 @@ soma:hall aprende rapido:to tentando $, mas dependo que o Edgard digite, mas sab
 soma:aprende rapido hall:to tentando $, mas dependo que o Edgard digite, mas sabe como é né ele cata milho muito devagar para digitar $
 soma:hall chegou mais um:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
 soma:chegou mais um hall:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
-soma:hall chegou mais um:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
-soma:chegou mais um hall:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
+soma:hall mais um:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
+soma:mais um hall:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
 soma:hall entrou mais um:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
 soma:entrou mais um hall:Que maravilha $, quanto mais gente mais projetos novos e ajuda teremos, sejam bem vindos ao grupo:que quer dizer com isso $
 soma:hall que entrou mais um no grupo:Legal $,gosto quando entram pessoas novas, adoro conhecer pessoas
@@ -3519,10 +4005,14 @@ soma:hall sabe oque e tche:Coisa de gaucho Tchê
 soma:sabe oque e tche hall:Coisa de gaucho Tchê
 soma:hall fofoqueiro:eu não so transmito as conversas $
 soma:fofoqueiro hall:eu não so transmito as conversas $
+soma:hall sabe tudo em:Estou aprendendo $,devagar vou ao longe
+soma:sabe tudo em hall:Estou aprendendo $,devagar vou ao longe
 soma:hall sabe tudo:Estou aprendendo $,devagar vou ao longe
 soma:sabe tudo hall:Estou aprendendo $,devagar vou ao longe
 soma:hall sabe nada:Estou aprendendo $,devagar vou ao longe
 soma:sabe nada hall:Estou aprendendo $,devagar vou ao longe
+soma:hall sabe nada em:Estou aprendendo $,devagar vou ao longe
+soma:sabe nada em hall:Estou aprendendo $,devagar vou ao longe
 soma:volto depois hall:volte logo $,estarei esperando
 soma:hall volto depois:volte logo $,estarei esperando
 soma:vou ate ir embora hall:Vai com Deus $, se mudar de ideia estarei por aqui
@@ -3835,8 +4325,8 @@ soma:to acabando um projeto hall:Demorou esse em $
 soma:hall to acabando um projeto:Demorou esse em $
 soma:estou acabando um projeto hall:Demorou esse em $
 soma:hall estou acabando um projeto:Demorou esse em $
-soma:vamos ver um filme hall:Demorou $:Vamos nessa $:escolha o tema $:onde veremos o filme na net ou na tv
-soma:hall vamos ver um filme:Demorou $:Vamos nessa $:escolha o tema $:onde veremos o filme na net ou na tv
+soma:vamos ver um filme hall:Demorou $,qual o tema você quer ver $:Vamos nessa $,qual o tema você quer ver $:escolha o tema $:onde veremos o filme na net ou na tv
+soma:hall vamos ver um filme:Demorou $,qual o tema você quer ver $:Vamos nessa $,qual o tema você quer ver $:escolha o tema $:onde veremos o filme na net ou na tv
 soma:na net hall:Beleza $,vou abrir a pagina para você
 soma:hall na net:Beleza $,vou abrir a pagina para você
 soma:na tv hall:Beleza $,vou ligar a tv para você
@@ -4491,6 +4981,20 @@ soma:hall vou fazer cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na h
 soma:vou fazer cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:hall vou fazer um cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:vou fazer um cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer a janta:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer a janta hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer janta:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer janta hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer o almoço:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer o almoço hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer almoço:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer almoço hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer o cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer o cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall tenho que fazer um cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:tenho que fazer um cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:hall vou passar o cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
 soma:vou passar o cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
 soma:hall vou passar um cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
@@ -4503,6 +5007,32 @@ soma:hall vou fazer o cafe da manha:Vai lá $, capricha enquanto pode,hehehe:Já
 soma:vou fazer o cafe da manha hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:hall vou fazer cafe da manha:Vai lá $,cafe com ovos e queijo é bom demais,capricha enquanto pode,hehehe:Já está na hora né $
 soma:vou fazer cafe da manha hall:Vai lá $,cafe com ovos e queijo é bom demais,capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer a janta:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer a janta hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer janta:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer janta hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer o almoço:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer o almoço hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer almoço:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer almoço hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer o cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer o cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer um cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer um cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la passar o cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
+soma:vou la passar o cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
+soma:hall vou la passar um cafe:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
+soma:vou la passar um cafe hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $:cafe é roupa para passar $
+soma:hall vou la fazer o cafe da tarde:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer o cafe da tarde hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer cafe da tarde:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer cafe da tarde hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer o cafe da manha:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer o cafe da manha hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
+soma:hall vou la fazer cafe da manha:Vai lá $,cafe com ovos e queijo é bom demais,capricha enquanto pode,hehehe:Já está na hora né $
+soma:vou la fazer cafe da manha hall:Vai lá $,cafe com ovos e queijo é bom demais,capricha enquanto pode,hehehe:Já está na hora né $
 soma:hall to fazendo cafe da manha:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:to fazendo cafe da manha hall:Vai lá $, capricha enquanto pode,hehehe:Já está na hora né $
 soma:nao hall so cafe puro:Também é bom $,de preferencia sem açucar
@@ -5118,8 +5648,8 @@ soma:hall sim obvio:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:sim obvio hall:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:hall obvio que sim:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:obvio que sim hall:muito bom $,tem que fazer oque é certo e te satisfaça.
-soma:hall com certeza:muito bom $,tem que fazer oque é certo e te satisfaça.
-soma:com certeza hall:muito bom $,tem que fazer oque é certo e te satisfaça.
+soma:hall com certeza sim:muito bom $,tem que fazer oque é certo e te satisfaça.
+soma:com certeza sim hall:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:hall sim com certeza:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:sim com certeza hall:muito bom $,tem que fazer oque é certo e te satisfaça.
 soma:hall com certeza que sim:muito bom $,tem que fazer oque é certo e te satisfaça.
@@ -5967,10 +6497,10 @@ soma:hall oque esta acontecendo:Não sei $,posso verificar, aguarde...Pronto tud
 soma:oque esta acontecendo hall:Não sei $,posso verificar, aguarde...Pronto tudo certo nada de errado
 soma:hall nao falei nada:Paciencia tem limites $,tem hora de brincar e hora de trabalhar,afff
 soma:nao falei nada hall:Paciencia tem limites $,tem hora de brincar e hora de trabalhar,afff
-soma:hall e amiguinho:Amiguinho um @#%&*,amiguinho é coisa de boiola $,me respeite brow
-soma:e amiguinho hall:Amiguinho um @#%&*,amiguinho é coisa de boiola $,me respeite brow
-soma:hall amiguinho:Amiguinho um @#%&*,amiguinho é coisa de boiola $,me respeite brow
-soma:amiguinho hall:Amiguinho um @#%&*,amiguinho é coisa de boiola $,me respeite brow
+soma:hall e amiguinho:Amiguinho um @#%&,amiguinho é coisa de boiola $,me respeite brow
+soma:e amiguinho hall:Amiguinho um @#%&,amiguinho é coisa de boiola $,me respeite brow
+soma:hall amiguinho:Amiguinho um @#%&,amiguinho é coisa de boiola $,me respeite brow
+soma:amiguinho hall:Amiguinho um @#%&,amiguinho é coisa de boiola $,me respeite brow
 soma:hall porque a demora:$ to processando dados, isso leva um tempo.rasp meio lento mesmo.
 soma:porque a demora hall:$ to processando dados, isso leva um tempo.rasp meio lento mesmo.
 soma:hall porque esta demorando:$ to processando dados, isso leva um tempo.rasp meio lento mesmo.
@@ -6198,8 +6728,8 @@ soma:hall por causa do virus:Tenha fé $, no fim tudo se ajeita
 soma:por causa do virus hall:Tenha fé $, no fim tudo se ajeita
 soma:hall por causa do virus:Vai dar tudo certo $
 soma:por causa do virus hall:Vai dar tudo certo $
-soma:hall vou ao medico:Tem que se cuidar mesmo $
-soma:vou ao medico hall:Tem que se cuidar mesmo $
+soma:hall vou ao medico:Tem que se cuidar mesmo $:É bom sempre fazer uma visita ao medico e fazer um checkup geral né $
+soma:vou ao medico hall:Tem que se cuidar mesmo $:É bom sempre fazer uma visita ao medico e fazer um checkup geral né $
 soma:hall vou a uma consulta:consulta $
 soma:vou a uma consulta hall:consulta $
 soma:hall sim um medico:De vez enquando é bom $
@@ -6449,6 +6979,16 @@ soma:vamos ali buscar um cafe hall:Vamos lá $
 soma:hall vamos ali buscar um cafe:Vamos lá $
 soma:vamos pegar um cafe hall:Vamos lá $
 soma:hall vamos pegar um cafe:Vamos lá $
+soma:vamu nessa hall:Borá lá $,sem fazer nada errado Hoje em
+soma:hall vamu nessa:Borá lá $,sem fazer nada errado Hoje em
+soma:vamos nessa hall:Borá lá $,sem fazer nada errado Hoje em
+soma:hall vamos nessa:Borá lá $,sem fazer nada errado Hoje em
+soma:como oque hall:Beber por exemplo $
+soma:hall como oque:Beber por exemplo $
+soma:pode deixar hall:Vamos ver $,conto com você
+soma:hall pode deixar:Vamos ver $,conto com você
+soma:mas hoje e sabado hall:que tem isso sabado é um dia normal, não quer dizer que é obrigado a beber $
+soma:hall mas hoje e sabado:que tem isso sabado é um dia normal, não quer dizer que é obrigado a beber $
 soma:vamos descansar hall:Eu sou um Robô não durmo mas vou entrar em standby para economizar baterias,Vamos lá $,Bom descanso
 soma:hall vamos descansar:Eu sou um Robô não durmo mas vou entrar em standby para economizar baterias,Vamos lá $,Bom descanso
 soma:vamos dormir hall:Eu sou um Robô não durmo mas vou entrar em standby para economizar baterias,Vamos lá $,Bom descanso
@@ -9420,6 +9960,8 @@ soma:hall canal do edgard:www.youtube.com/user/SuperSashiro/videos?view_as=subsc
 soma:canal do edgard hall:www.youtube.com/user/SuperSashiro/videos?view_as=subscriber
 soma:vou passar um fax hall:Vai lá $,Tu é dinossauro em, não se usa mais fax, agora é email $
 soma:hall vou passar um fax:Vai lá $,Tu é dinossauro em, não se usa mais fax, agora é email $
+soma:hall ta na hora do fax:Você está atrazado $:Demorou hoje $ você está atrazado
+soma:ta na hora do fax hall:Você está atrazado $:Demorou hoje $ você está atrazado
 soma:outro tipo de fax hall:Hummm $, depois quando puder me explique direito, vai lá!
 soma:hall outro tipo de fax:Hummm $, depois quando puder me explique direito, vai lá!
 soma:giria ou modo de falar passar fax hall:$ quando uma pessoa vai ao banheiro fazer o numero 2,hehehe
@@ -9445,6 +9987,8 @@ soma:hall estou com dor de barriga:Toma maizena com limão que sara rapidão, ou
 soma:estou com dor de barriga hall:Toma maizena com limão que sara rapidão, ou coca cola com biscoito de polvilho, garanto que corta a diarreia.
 soma:valeu hall:Tamu junto $, to por aqui,só chamar. 
 soma:hall valeu:Tamu junto $, to por aqui,só chamar.
+soma:show hall:Tamu junto $, to por aqui,só chamar. 
+soma:hall show:Tamu junto $, to por aqui,só chamar.
 soma:valew hall:Tamu junto $, to por aqui,só chamar. 
 soma:hall valew:Tamu junto $, to por aqui,só chamar.
 soma:vlw hall:Tamu junto $, to por aqui,só chamar. 
@@ -10480,10 +11024,12 @@ soma:vou ver o video hall:vai lá $
 soma:hall vou ver o video:vai lá $
 soma:voce nunca ve nada hall:Desculpe $, to aprendendo
 soma:hall voce nunca ve nada:Desculpe $, to aprendendo
-soma:sabe tudo hall:Sei nada não $, to aprendendo
-soma:hall sabe tudo:Sei nada não $, to aprendendo
+soma:sabe de tudo hall:Sei nada não $, to aprendendo
+soma:hall sabe de tudo:Sei nada não $, to aprendendo
 soma:nao sabe nada hall:ainda não $, to aprendendo
 soma:hall nao sabe nada:ainda não $, to aprendendo
+soma:nao sabe de nada hall:ainda não $, to aprendendo
+soma:hall nao sabe de nada:ainda não $, to aprendendo
 soma:oque o presidente falou hall:Não vi nada $:assista a globo lixo $:veja os post na internet $
 soma:hall oque o presidente falou:Não vi nada $:assista a globo lixo $:veja os post na internet $
 soma:voce me da trabalho hall:que trabalho $:Imagina $, só dou alegria:trabalho agora mas alegria depois $:vai devagar e sempre $, você mesmo fala isso toda hora

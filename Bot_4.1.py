@@ -6,6 +6,7 @@ import emojis
 from time import sleep
 from datetime import datetime
 from pytz import timezone
+import envier
 
 
 abecedario = {'á': 'a', 'à': 'a', 'â': 'a', 'ã': 'a', 'Á': 'a', 'À': 'a', 'Â': 'a', 'Ã': 'a', 'é': 'e', 'è': 'e',
@@ -126,27 +127,29 @@ audio = abre_id('id.txt')
 def recebendo(msg):
     # print(msg)
     chatID = msg['chat']['id']
-    if 'new_chat_member' in msg:
-        bot.sendMessage(chatID, f"Seja bem vindo {msg['new_chat_member']['first_name']} {msg['new_chat_member']['last_name']} "
-                                f"veja os videos e escute os audios , e principalmente coloque uma foto e nome validos "
-                                f", para  a nossa e sua segurança e também não ser banido pelo robo do grupo, vc vendo "
-                                f"os videos saberá como aproveitar os arquivos e musicas do grupo com muito mais "
-                                "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
-                                "que tiver, isso ajuda a todos, obrigado."
-                                " ———————————————————————————————————————————————————————————-   "
-                                "watch the videos and listen to the audios, and especially put a "
-                                "valid photo and name, for ours and your safety and also not be "
-                                "banned by the group robot, u watching the videos will know how to "
-                                "enjoy the files and music. of the group much easier, follow the few "
-                                "rules, share as many files as you have, it helps everyone, thanks.")
-        bot.sendVoice(chatID, 'AwACAgEAAxkBAANVXiuxhUE0WgJDyqj4AAG4eM8254ZiAAI0AAPnWOhEAQg3hqI1xhQYBA')
-        bot.sendVoice(chatID, 'AwACAgEAAxkBAANlXiu4q4yzXzfJe6tBjArmNKjYaUYAAlwAA-dY4ETHWLuPWrOryBgE')
-        bot.sendVoice(chatID, 'AwACAgEAAxkBAANmXiu4zd9JaawsvLFD4wnEQI9xuBwAAl8AA-dY4EQwetjYNiG1eRgE')
-        bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
-        bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
-        bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
-    else:
-        print('nada encontrado!')
+    envier.envia(bot, chatID)
+
+    #if 'new_chat_member' in msg:
+    #    bot.sendMessage(chatID, f"Seja bem vindo {msg['new_chat_member']['first_name']} {msg['new_chat_member']['last_name']} "
+    #                            f"veja os videos e escute os audios , e principalmente coloque uma foto e nome validos "
+    #                            f", para  a nossa e sua segurança e também não ser banido pelo robo do grupo, vc vendo "
+    #                            f"os videos saberá como aproveitar os arquivos e musicas do grupo com muito mais "
+    #                            "facilidade, Siga as regras que são poucas, compartilhe o maximo de arquivos "
+    #                            "que tiver, isso ajuda a todos, obrigado."
+    #                            " ———————————————————————————————————————————————————————————-   "
+    #                            "watch the videos and listen to the audios, and especially put a "
+    #                            "valid photo and name, for ours and your safety and also not be "
+    #                            "banned by the group robot, u watching the videos will know how to "
+    #                            "enjoy the files and music. of the group much easier, follow the few "
+    #                            "rules, share as many files as you have, it helps everyone, thanks.")
+    #    bot.sendVoice(chatID, 'AwACAgEAAxkBAANVXiuxhUE0WgJDyqj4AAG4eM8254ZiAAI0AAPnWOhEAQg3hqI1xhQYBA')
+    #    bot.sendVoice(chatID, 'AwACAgEAAxkBAANlXiu4q4yzXzfJe6tBjArmNKjYaUYAAlwAA-dY4ETHWLuPWrOryBgE')
+    #    bot.sendVoice(chatID, 'AwACAgEAAxkBAANmXiu4zd9JaawsvLFD4wnEQI9xuBwAAl8AA-dY4EQwetjYNiG1eRgE')
+    #    bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
+    #    bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
+    #    bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
+    #else:
+    #    print('nada encontrado!')
 
 
 def on_callback_query(msg):
@@ -200,8 +203,8 @@ def on_callback_query(msg):
         bot.sendMessage(chat_id, 'Ainda não tenho livros adicionados aqui!')
 
 
-# TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
-TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
+TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
+# TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
 bot = amanobot.Bot(TOKEN)
 MessageLoop(bot, {'chat': recebendo,
                   'callback_query': on_callback_query}).run_as_thread()
