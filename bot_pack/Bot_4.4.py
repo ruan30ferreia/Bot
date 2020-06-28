@@ -9,15 +9,6 @@ from bot_pack.CentraLibrary import *
 from bot_pack.buttonFunction import *
 from bot_pack.messageHandling import ABC
 from bot_pack.textModifiers import *
-from bot_pack.timeNow import *
-
-
-def soma(estrutura, name):
-    return estrutura.replace("$", name)
-
-
-def soma_hora(res12):
-    return res12.replace("*", hour())
 
 
 def recebendo(msg):
@@ -36,28 +27,13 @@ def recebendo(msg):
         if limpesa == 'hall menu' or limpesa == 'menu hall':
             bot.sendMessage(chatID, "***OPÇÕES DO MENU CLIQUE***", reply_markup=botao2())
 
-        elif limpesa == 'hall2':
-            bot.sendMessage(chatID, "Todos os usuarios que não tiverem foto seram BANIDOS! Por "
-                                    "favor colocar foto de perfil!")
-
-        elif limpesa == 'hall que dia e hoje' or limpesa == 'que dia e hoje hall':
-            bot.sendMessage(chatID, f"Hoje é dia {dat()}")
-
         elif conta[0] == '+':
             conta.pop(0)
             men_s = ' '.join(conta)
             bot.sendMessage(-1001140402839, text=men_s)
 
         elif limpesa == 'hall aviso grupo':
-            bot.sendMessage(-1001140402839, "Todos os usuarios que não tiverem foto seram BANIDOS!"
-                                            " Por favor colocar foto de perfil!")
-            sleep(0.5)
-            bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
-            bot.sendMessage(-1001140402839, "Quem não souber colocar foto no perfil, olhem o video abaixo!")
-            bot.sendMessage(-1001140402839, "https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s")
-            bot.sendMessage(-1001140402839, "Ultimo aviso!")
-            sleep(0.5)
-            bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
+            group_warning(bot, aviso_x)
 
         elif letras_mens.count('k') > 6:
             bot.sendMessage(chatID, f"Qual a graça, {msg['from']['first_name']} ?")
@@ -76,34 +52,19 @@ def recebendo(msg):
                         if limpesa == estrutura[1]:
                             bot.sendMessage(chatID, resposta_ao_telegram)
                             return
-
                     elif len(estrutura) >= 3:
-                        if estrutura[0] and estrutura[1] in globals():
-                            if limpesa == estrutura[2]:
-                                resposta_final = random.choice(estrutura[3::])
+                        if estrutura[0] in globals():
+                            if limpesa == estrutura[1]:
+                                resposta_final = random.choice(estrutura[2::])
                                 if '$' or '*' in resposta_final:
                                     name = msg['from']['first_name']
                                     resposta_ao_telegram = globals()[estrutura[0]](resposta_final, name)
-                                    resposta_ao_telegram = globals()[estrutura[1]](resposta_ao_telegram)
                                     bot.sendMessage(chatID, resposta_ao_telegram)
                                     return
-
-                        elif estrutura[0] in globals():
-                            if limpesa == estrutura[1]:
-                                confirmacao = []
-                                for resp_chute in estrutura[1::]:
-                                    confirmacao.append(resp_chute)
-                                resposta_final = random.randint(2, len(confirmacao))
-                                if '$' in estrutura[resposta_final]:
-                                    name = msg['from']['first_name']
-                                    resposta_ao_telegram = globals()[estrutura[0]](estrutura[resposta_final], name)
-                                    bot.sendMessage(chatID, resposta_ao_telegram)
-                                    return
-                                    # return resposta_ao_telegram
                                 else:
-                                    # bot.sendMessage(chatID, estrutura[resposta_final])
                                     bot.sendMessage(chatID, estrutura[resposta_final])
                                     return
+
                         else:
                             bot.sendMessage(chatID, "encontrado entrada no CSV nao permitida!")
         bot.sendMessage(chatID, 'Não sei responder isso ainda!')
@@ -159,8 +120,8 @@ def on_callback_query(msg):
         bot.sendMessage(chat_id, f"Sem HQs no momento!")
 
 
-TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
-# TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
+# TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
+TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
 bot = amanobot.Bot(TOKEN)
 MessageLoop(bot, {'chat': recebendo,
                   'callback_query': on_callback_query}).run_as_thread()

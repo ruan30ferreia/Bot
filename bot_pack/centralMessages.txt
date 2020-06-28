@@ -1,7 +1,9 @@
-soma:soma_hora:hall que horas sao:$ agora são *:Não sei $
-soma:soma_hora:que horas sao hall:$ agora são *
-soma:soma_hora:hall que hora e:$ agora são *
-soma:soma_hora:hall que horas e:$ agora são *
+soma:hall que horas sao:$ agora são *:Não sei $
+soma:hall que dia e hoje:hoje é dia ¨¨
+soma:que dia e hoje hall:hoje é dia ¨¨
+soma:que horas sao hall:$ agora são *
+soma:hall que hora e:$ agora são *
+soma:hall que horas e:$ agora são *
 soma:hall filmes:Aqui $,Aproveita e de uma força ao desenvolvedor se inscrevendo no canal   @canaldoalf
 soma:filmes hall:Aqui $,Aproveita e de uma força ao desenvolvedor se inscrevendo no canal   @canaldoalf
 soma:hall e bom mesmo:ok não vou fazer mais $:foda-se se não gostou me desligue $ se conseguir hehehe

@@ -1,5 +1,13 @@
 # Funções do arquivo Bot_4.4
 from time import sleep
+from bot_pack.timeNow import hour, dat
+
+
+def soma(estrutura, name):
+    resposta_return = estrutura.replace("$", name)
+    resposta_return = resposta_return.replace("*", hour())
+    resposta_return = resposta_return.replace("¨¨", dat())
+    return resposta_return
 
 
 def receiving_new_users(msg, bot):
@@ -39,6 +47,18 @@ def receiving_new_users(msg, bot):
     bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s')
     bot.sendMessage(chatID, 'https://www.youtube.com/watch?v=RZAYppEvkqM&t=80s')
     bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
+
+
+def group_warning(bot, aviso_x):
+    bot.sendMessage(-1001140402839, "Todos os usuarios que não tiverem foto seram BANIDOS!"
+                                    " Por favor colocar foto de perfil!")
+    sleep(0.5)
+    bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
+    bot.sendMessage(-1001140402839, "Quem não souber colocar foto no perfil, olhem o video abaixo!")
+    bot.sendMessage(-1001140402839, "https://www.youtube.com/watch?v=gjroA6z6T7U&t=211s")
+    bot.sendMessage(-1001140402839, "Ultimo aviso!")
+    sleep(0.5)
+    bot.sendMessage(-1001140402839, f"{aviso_x * 4}")
 
 
 if __name__ == '__main__':

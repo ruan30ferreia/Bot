@@ -90,3 +90,14 @@ with open('central.txt', 'r', encoding='utf-8') as file:
                 print("funcao especificada no CSV nao existe no codigo python!!!")
         else:
             print("encontrado entrada no CSV nao permitida!")
+
+# Estrutura para 2 funções em 1 linha no .txt
+# if estrutura[0] and estrutura[1] in globals():
+#     if limpesa == estrutura[2]:
+#         resposta_final = random.choice(estrutura[3::])
+#         if '$' or '*' in resposta_final:
+#             name = msg['from']['first_name']
+#             resposta_ao_telegram = globals()[estrutura[0]](resposta_final, name)
+#             resposta_ao_telegram = globals()[estrutura[1]](resposta_ao_telegram)
+#             bot.sendMessage(chatID, resposta_ao_telegram)
+#             return
