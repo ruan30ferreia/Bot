@@ -1,7 +1,7 @@
 abecedario = {'á': 'a', 'à': 'a', 'â': 'a', 'ã': 'a', 'Á': 'a', 'À': 'a', 'Â': 'a', 'Ã': 'a', 'é': 'e', 'è': 'e',
               'ê': 'e', 'È': 'e', 'É': 'e', 'Ê': 'e', 'í': 'i', 'ì': 'i', 'î': 'i', 'Ì': 'i', 'Í': 'i', 'Î': 'i',
               'ó': 'o', 'ò': 'o', 'ô': 'o', 'õ': 'o', 'Ò': 'o', 'Ó': 'o', 'Ô': 'o', 'Õ': 'o', 'ú': 'u',
-              'ù': 'u', 'û': 'u', 'Ù': 'u', 'Ú': 'u', 'Û': 'u'}
+              'ù': 'u', 'û': 'u', 'Ù': 'u', 'Ú': 'u', 'Û': 'u', 'ç': 'c', 'Ç': 'c'}
 lista_acentos = ['`', '´', '~', '^', '?', '!']
 palavras_abreviadas = {'vc': 'voce', 'vm': 'vamo', 'blz': 'beleza', 'vms': 'vamos', 'hj': 'hoje', 'por que': 'porque'}
 t = ['vc', 'vm', 'blz', 'vms', 'hj']
@@ -9,7 +9,6 @@ t = ['vc', 'vm', 'blz', 'vms', 'hj']
 
 def ABC(frase):
     letras_frase = list(frase.lower())
-    # palavras_frase = frase.split()
     for i in abecedario:
         while i in letras_frase:
             if i in letras_frase:

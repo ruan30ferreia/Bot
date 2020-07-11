@@ -8,7 +8,6 @@ from amanobot.loop import MessageLoop
 from bot_pack.CentraLibrary import *
 from bot_pack.buttonFunction import *
 from bot_pack.messageHandling import ABC
-from bot_pack.textModifiers import *
 
 
 def recebendo(msg):
@@ -43,31 +42,43 @@ def recebendo(msg):
             bot.sendMessage(chatID, f"Qual a duvida,posso ajudar {msg['from']['first_name']}?")
 
         else:
+            with open('biblia comandos meus.txt', 'r', encoding='utf-8') as oracaos:
+                p = 0
+                for oracao_pv in oracaos:
+                    p = p + 1
+                    oracao_pv = oracao_pv.replace('\n', '')
+                    if limpesa == oracao_pv:
+                        resp = lendo_biblia(p)
+                        bot.sendMessage(chatID, resp)
             with open('centralMessages.txt', 'r', encoding='utf-8') as file:
-                for frase_pv in file:
-                    frase_pv = frase_pv.replace('\n', '')
-                    estrutura = frase_pv.split(':')
-                    if len(estrutura) == 2:
-                        resposta_ao_telegram = estrutura[1]
-                        if limpesa == estrutura[1]:
-                            bot.sendMessage(chatID, resposta_ao_telegram)
-                            return
-                    elif len(estrutura) >= 3:
-                        if estrutura[0] in globals():
+                if limpesa in file.read():
+                    file.seek(0)
+                    for frase_pv in file:
+                        frase_pv = frase_pv.replace('\n', '')
+                        estrutura = frase_pv.split(':')
+                        if len(estrutura) == 2:
+                            resposta_ao_telegram = estrutura[1]
                             if limpesa == estrutura[1]:
-                                resposta_final = random.choice(estrutura[2::])
-                                if '$' or '*' in resposta_final:
-                                    name = msg['from']['first_name']
-                                    resposta_ao_telegram = globals()[estrutura[0]](resposta_final, name)
-                                    bot.sendMessage(chatID, resposta_ao_telegram)
-                                    return
-                                else:
-                                    bot.sendMessage(chatID, estrutura[resposta_final])
-                                    return
+                                bot.sendMessage(chatID, resposta_ao_telegram)
+                                return
+                        elif len(estrutura) >= 3:
+                            if estrutura[0] in globals():
+                                if limpesa == estrutura[1]:
+                                    resposta_final = random.choice(estrutura[2::])
+                                    if '$' or '*' in resposta_final:
+                                        name = msg['from']['first_name']
+                                        resposta_ao_telegram = globals()[estrutura[0]](resposta_final, name)
+                                        bot.sendMessage(chatID, resposta_ao_telegram)
+                                        return
+                                    else:
+                                        bot.sendMessage(chatID, estrutura[resposta_final])
+                                        return
 
-                        else:
-                            bot.sendMessage(chatID, "encontrado entrada no CSV nao permitida!")
-        bot.sendMessage(chatID, 'Não sei responder isso ainda!')
+                            else:
+                                bot.sendMessage(chatID, "encontrado entrada no CSV nao permitida!")
+                elif 'hall' in limpesa:
+                    bot.sendMessage(chatID, 'Não sei responder isso ainda!')
+                    add_not_phrases(limpesa)
 
 
 def on_callback_query(msg):
@@ -120,8 +131,8 @@ def on_callback_query(msg):
         bot.sendMessage(chat_id, f"Sem HQs no momento!")
 
 
-# TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
-TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
+TOKEN = "771827013:AAFDYw87Xv9pnSGUPLp6H8BLFnf-iu-ANo8"
+# TOKEN = "870167339:AAEXvrPJf8NR9GWoOTWUvw-gdeGPy7kDkDE"
 bot = amanobot.Bot(TOKEN)
 MessageLoop(bot, {'chat': recebendo,
                   'callback_query': on_callback_query}).run_as_thread()

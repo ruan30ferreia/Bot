@@ -1,2 +1,6 @@
 soma:como vai:vou bem $:não estou nada bem $!:para que quer saber $:NÃO $
-ola hall:ola como vai
+ola hall:ola como vaideu certo
+teste
+banco
+carro
+moto

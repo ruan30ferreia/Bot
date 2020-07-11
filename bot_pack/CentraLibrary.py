@@ -49,6 +49,32 @@ def receiving_new_users(msg, bot):
     bot.sendMessage(chatID, "https://www.youtube.com/watch?v=UuyJGyOaot4")
 
 
+# Essa função abre o id das musicas salvas em um .txt
+def abre_id(arq):
+    with open(arq, 'r') as lei:
+        z = []
+        # print(file.readlines())
+        lei.seek(0)
+        for le in lei.readlines():
+            z.append(le)
+        # lista_formated = list(map(lambda l: l.replace('\n', ''), a))
+        lista_formated_1 = list(map(lambda l: l.rstrip(), z))
+        return lista_formated_1
+
+
+def lendo_biblia(num):
+    with open('biblia respostas meus.txt', 'r', encoding='utf-8') as geneses:
+        lin = geneses.readlines()
+
+        return lin[num-1]
+
+
+def add_not_phrases(frase):
+    with open('not_phrases.txt', 'a') as file:
+        file.write(frase)
+        file.write('\n')
+
+
 def group_warning(bot, aviso_x):
     bot.sendMessage(-1001140402839, "Todos os usuarios que não tiverem foto seram BANIDOS!"
                                     " Por favor colocar foto de perfil!")
